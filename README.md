@@ -109,7 +109,7 @@ $ grep -nri css docs | cat --number
 
 - 第 295 期：[巧妙的灯泡钟](docs/issue-295.md)
 - 第 294 期：[崖门海战的感想](docs/issue-294.md)
-- 第 293 期：[一周是一年的2%](docs/issue-293.md)
+- 第 293 期：[一周是一年的 2%](docs/issue-293.md)
 - 第 292 期：[所有代码都是技术债](docs/issue-292.md)
 - 第 291 期：[AI 没有护城河](docs/issue-291.md)
 
@@ -359,7 +359,7 @@ $ grep -nri css docs | cat --number
 
 - 第 156 期：[显卡缺货与异业竞争](docs/issue-156.md)
 - 第 155 期：[数字货币是打破美元霸权的武器吗？](docs/issue-155.md)
-- 第 154 期：[1982年的信息社会预言](docs/issue-154.md)
+- 第 154 期：[1982 年的信息社会预言](docs/issue-154.md)
 - 第 153 期：[机器翻译是对译者的侮辱吗？](docs/issue-153.md)
 - 第 152 期：[从北大到技校](docs/issue-152.md)
 
@@ -380,7 +380,7 @@ $ grep -nri css docs | cat --number
 
 - 第 144 期：[提高收入的根本途径](docs/issue-144.md)
 - 第 143 期：[世界尽头与冷酷仙境](docs/issue-143.md)
-- 第 142 期：[2020年才是21世纪元年](docs/issue-142.md)
+- 第 142 期：[2020 年才是 21 世纪元年](docs/issue-142.md)
 - 第 141 期：[封闭系统的胜利](docs/issue-141.md)
 
 ## 2020
@@ -396,7 +396,7 @@ $ grep -nri css docs | cat --number
 **十一月**
 
 - 第 135 期：[什么行业适合创业？](docs/issue-135.md)
-- 第 134 期：[未来的游戏业比现在大100倍](docs/issue-134.md)
+- 第 134 期：[未来的游戏业比现在大 100 倍](docs/issue-134.md)
 - 第 133 期：[贵州变瑞士，有没有可能？](docs/issue-133.md)
 - 第 132 期：[快能力和慢能力](docs/issue-132.md)
 
@@ -538,7 +538,7 @@ $ grep -nri css docs | cat --number
 
 - 第 53 期：[DNA 相亲会](docs/issue-53.md)
 - 第 52 期：[人脸识别与课堂监控](docs/issue-52.md)
-- 第 51 期：[为什么过去10年，笔记本硬件发展缓慢？](docs/issue-51.md)
+- 第 51 期：[为什么过去 10 年，笔记本硬件发展缓慢？](docs/issue-51.md)
 - 第 50 期：["时间换收入"是一个陷阱](docs/issue-50.md)
 
 **三月**
@@ -611,7 +611,7 @@ $ grep -nri css docs | cat --number
 **六月**
 
 - 第 11 期：[编程语言越发复杂](docs/issue-11.md)
-- 第 10 期：[30岁以后谨慎转行前端](docs/issue-10.md)
+- 第 10 期：[30 岁以后谨慎转行前端](docs/issue-10.md)
 - 第 9 期：[身份证可以植入人体](docs/issue-9.md)
 - 第 8 期：[实验室会生产人吗？](docs/issue-8.md)
 - 第 7 期：[垃圾填埋不是解决办法](docs/issue-7.md)

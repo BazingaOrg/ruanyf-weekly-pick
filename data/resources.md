@@ -1,5 +1,3 @@
-# 资源
-
 ## [第 337 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md)
 
 1、[WikiTok](https://wikitok.cc/)

@@ -1,5 +1,3 @@
-# AI
-
 ## [第 337 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md)
 
 1、[RAG Web UI](https://github.com/rag-web-ui/rag-web-ui)

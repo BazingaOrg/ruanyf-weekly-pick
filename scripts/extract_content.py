@@ -91,11 +91,7 @@ class ContentExtractor:
             
             output_file = self.data_dir / f"{section_key}.md"
             with open(output_file, 'w', encoding='utf-8') as f:
-                # 写入标题
-                title = self.section_titles[section_key]
-                f.write(f"# {title}\n\n")
-                
-                # 写入内容
+                # 直接写入内容，不添加标题
                 for item in sorted_items:
                     # 添加带链接的标题
                     issue_link = f"https://github.com/ruanyf/weekly/blob/master/docs/issue-{item['issue']}.md"
