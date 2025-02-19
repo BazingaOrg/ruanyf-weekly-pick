@@ -112,26 +112,19 @@ class ContentExtractor:
         
         print(f"Found {len(md_files)} files to process")
         
-        # 如果有处理记录，只处理最新的文件
-        if self.last_processed['files']:
-            latest_file = md_files[0]
-            file_stat = latest_file.stat()
-            last_modified = file_stat.st_mtime
-            
-            if str(latest_file) not in self.last_processed['files'] or \
-               self.last_processed['files'][str(latest_file)] < last_modified:
-                print(f"Processing latest file: {latest_file}")
-                self.process_file(latest_file)
-                self.last_processed['files'][str(latest_file)] = last_modified
-            else:
-                print("No new content to process")
-                return
-        else:
-            # 首次运行，处理所有文件
-            for file_path in md_files:
-                file_stat = file_path.stat()
-                self.process_file(file_path)
-                self.last_processed['files'][str(file_path)] = file_stat.st_mtime
+        # 清空内容存储
+        self.content_store = {
+            'tools': [],
+            'ai': [],
+            'resources': []
+        }
+        
+        # 处理所有文件
+        for file_path in md_files:
+            print(f"\nProcessing file: {file_path}")
+            self.process_file(file_path)
+            file_stat = file_path.stat()
+            self.last_processed['files'][str(file_path)] = file_stat.st_mtime
         
         print(f"\nContent store stats:")
         for section, items in self.content_store.items():
