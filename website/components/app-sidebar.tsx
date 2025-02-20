@@ -76,7 +76,7 @@ export function AppSidebar() {
               )}
             >
               <div className="font-semibold whitespace-nowrap text-sm">
-                阮一峰科技爱好者周刊
+                阮一峰周刊
               </div>
               <div className="text-xs text-muted-foreground whitespace-nowrap">
                 精选内容
