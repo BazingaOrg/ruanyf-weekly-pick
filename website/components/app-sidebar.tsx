@@ -29,7 +29,10 @@ export function AppSidebar() {
         {/* 折叠按钮 */}
         <button
           onClick={() => setIsCollapsed(!isCollapsed)}
-          className="absolute -right-4 top-6 z-40 hidden h-8 w-8 items-center justify-center rounded-full border bg-background md:flex hover:bg-accent hover:text-accent-foreground"
+          className={cn(
+            "absolute -right-4 top-6 z-40 h-8 w-8 flex items-center justify-center rounded-full border bg-background",
+            "hover:bg-accent hover:text-accent-foreground"
+          )}
         >
           {isCollapsed ? (
             <ChevronRight className="h-4 w-4" />

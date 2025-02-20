@@ -23,18 +23,24 @@ export default async function CategoryPage({
     };
 
     return (
-      <div className="container py-8">
-        <article className="prose prose-sm md:prose-base dark:prose-invert max-w-none prose-compact">
-          <VirtualContent html={contentHtml} />
-        </article>
+      <div className="min-h-screen bg-background">
+        <div className="container py-6 md:py-8 ml-[50px] md:ml-0">
+          <article className="prose prose-sm md:prose-base dark:prose-invert prose-compact mx-auto">
+            <VirtualContent html={contentHtml} />
+          </article>
+        </div>
       </div>
     );
   } catch (error) {
     console.error("Error loading markdown content:", error);
     return (
-      <div className="container py-8">
-        <h1 className="text-3xl font-bold mb-8">加载失败</h1>
-        <p className="text-red-500">内容加载失败，请稍后重试。</p>
+      <div className="min-h-screen bg-background">
+        <div className="container py-6 md:py-8 ml-[50px] md:ml-0">
+          <div className="max-w-2xl mx-auto text-center">
+            <h1 className="text-2xl font-bold mb-4">加载失败</h1>
+            <p className="text-muted-foreground">内容加载失败，请稍后重试。</p>
+          </div>
+        </div>
       </div>
     );
   }
