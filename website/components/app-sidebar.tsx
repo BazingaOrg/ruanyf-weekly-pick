@@ -1,13 +1,36 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Navigation } from "@/components/nav-links";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
 export function AppSidebar() {
-  const [isCollapsed, setIsCollapsed] = useState(false);
+  // 初始状态设置为 true (收起状态)
+  const [isCollapsed, setIsCollapsed] = useState(true);
+  // 使用 useEffect 在客户端加载时读取 localStorage
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    const saved = localStorage.getItem("sidebarCollapsed");
+    if (saved !== null) {
+      setIsCollapsed(JSON.parse(saved));
+    }
+    // 如果没有保存的状态,保持默认的收起状态
+    setIsLoaded(true);
+  }, []);
+
+  const toggleCollapsed = () => {
+    const newState = !isCollapsed;
+    setIsCollapsed(newState);
+    localStorage.setItem("sidebarCollapsed", JSON.stringify(newState));
+  };
+
+  // 在客户端 JavaScript 加载完成前不渲染内容
+  if (!isLoaded) {
+    return null;
+  }
 
   return (
     <>
@@ -15,7 +38,7 @@ export function AppSidebar() {
       {!isCollapsed && (
         <div
           className="fixed inset-0 z-20 bg-background/80 backdrop-blur-sm md:hidden"
-          onClick={() => setIsCollapsed(true)}
+          onClick={() => toggleCollapsed()}
         />
       )}
 
@@ -28,7 +51,7 @@ export function AppSidebar() {
       >
         {/* 折叠按钮 */}
         <button
-          onClick={() => setIsCollapsed(!isCollapsed)}
+          onClick={() => toggleCollapsed()}
           className={cn(
             "absolute -right-4 top-6 z-40 h-8 w-8 flex items-center justify-center rounded-full border bg-background",
             "hover:bg-accent hover:text-accent-foreground"

@@ -1,4 +1,4 @@
-## [第 338 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md)
+## [第 338 期：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md)
 
 1、[ElevenReader](https://elevenreader.io/)
 
@@ -42,7 +42,7 @@ Linux 和 Mac 系统的被删除文件的垃圾桶，可以在终端里面还原
 
 ---
 
-## [第 337 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md)
+## [第 337 期：互联网创业几乎没了](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md)
 
 1、[You-Get](https://github.com/soimort/you-get)
 
@@ -102,7 +102,7 @@ ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这�
 
 ---
 
-## [第 336 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-336.md)
+## [第 336 期：面对 AI，互联网正在衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-336.md)
 
 1、[Lightpanda](https://github.com/lightpanda-io/browser)
 
@@ -166,7 +166,7 @@ ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这�
 
 ---
 
-## [第 335 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-335.md)
+## [第 335 期：年底的未来已来](https://github.com/ruanyf/weekly/blob/master/docs/issue-335.md)
 
 1、[DeskPad](https://github.com/Stengo/DeskPad)
 
@@ -234,7 +234,7 @@ ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这�
 
 ---
 
-## [第 334 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md)
+## [第 334 期：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md)
 
 1、[barba.js](https://barba.js.org/)
 
@@ -296,7 +296,7 @@ ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这�
 
 ---
 
-## [第 333 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md)
+## [第 333 期：一切都要支付两次](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md)
 
 1、[Sourcebot](https://github.com/sourcebot-dev/sourcebot)
 
@@ -358,7 +358,7 @@ ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这�
 
 ---
 
-## [第 332 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-332.md)
+## [第 332 期：西蒙·威利森的年终总结，梁文锋的访谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-332.md)
 
 1、[Ghostty](https://ghostty.org/docs)
 
@@ -428,7 +428,7 @@ Rust 语言开发的 Ping 工具，支持多个地址并发 Ping，并附带实�
 
 ---
 
-## [第 331 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md)
+## [第 331 期：你可能是一个 NPC](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md)
 
 1、[YunoHost](https://yunohost.org)
 
@@ -492,7 +492,7 @@ Chrome 插件 + 微信小程序，在网页上收藏单词，建立自己的词�
 
 ---
 
-## [第 330 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md)
+## [第 330 期：李开复梳理人工智能](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md)
 
 1、[Presenterm](https://github.com/mfontanini/presenterm)
 
@@ -554,7 +554,7 @@ Canonical 公司的 CSS 框架，就是 Ubuntu 官网采用的样式。
 
 ---
 
-## [第 329 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md)
+## [第 329 期：示意图利器 D2](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md)
 
 1、[EasyTransfer](https://github.com/WCY-dt/EasyTransfer)
 
@@ -614,7 +614,7 @@ Canonical 公司的 CSS 框架，就是 Ubuntu 官网采用的样式。
 
 ---
 
-## [第 328 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md)
+## [第 328 期：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md)
 
 1、[Bananas](https://github.com/mistweaverco/bananas)
 
@@ -678,7 +678,7 @@ Canonical 公司的 CSS 框架，就是 Ubuntu 官网采用的样式。
 
 ---
 
-## [第 327 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md)
+## [第 327 期：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md)
 
 1、[Graphite](https://graphite.rs/)
 
@@ -740,7 +740,7 @@ macOS 命令行工具 rm 的替代方案，用于将文件移动到废纸篓。�
 
 ---
 
-## [第 326 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md)
+## [第 326 期：世界没有那么多财富](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md)
 
 1、[Neat CSS](https://neat.joeldare.com/)
 
@@ -798,7 +798,7 @@ macOS 命令行工具 rm 的替代方案，用于将文件移动到废纸篓。�
 
 ---
 
-## [第 325 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md)
+## [第 325 期：VS Code 编辑器的下一站是 Zed？](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md)
 
 1、[PasteBar](https://github.com/PasteBar/PasteBarApp)
 
@@ -870,7 +870,7 @@ macOS 命令行工具 rm 的替代方案，用于将文件移动到废纸篓。�
 
 ---
 
-## [第 324 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md)
+## [第 324 期：人类已知的最大质数](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md)
 
 1、[flyscrape](https://flyscrape.com/)
 
@@ -932,7 +932,7 @@ Rust 语言写的 Python 包安装器，可以替代 pip，运行速度更快，
 
 ---
 
-## [第 323 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md)
+## [第 323 期：技术公司的口号比拼](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md)
 
 1、[Garage](https://garagehq.deuxfleurs.fr/)
 
@@ -998,7 +998,7 @@ Rust 语言写的 Python 包安装器，可以替代 pip，运行速度更快，
 
 ---
 
-## [第 322 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md)
+## [第 322 期：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md)
 
 1、[whodb](https://github.com/clidey/whodb)
 
@@ -1056,7 +1056,7 @@ Eclipse 推出的代码编辑器，VS Code 的替代品。
 
 ---
 
-## [第 321 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md)
+## [第 321 期：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md)
 
 1、[Chisel](https://github.com/jpillora/chisel)
 
@@ -1118,7 +1118,7 @@ Vitepress 插件，支持在文档页面中插入 Vue/React/HTML 组件。（[@z
 
 ---
 
-## [第 320 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-320.md)
+## [第 320 期：乒乓仓](https://github.com/ruanyf/weekly/blob/master/docs/issue-320.md)
 
 1、[MiKaPo](https://github.com/AmyangXYZ/MiKaPo)
 
@@ -1196,7 +1196,7 @@ mdict 词典的安卓 App，使用 Flutter 开发，代码开源。（[@mumu-lhl
 
 ---
 
-## [第 319 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-319.md)
+## [第 319 期：如何拍出爆款视频](https://github.com/ruanyf/weekly/blob/master/docs/issue-319.md)
 
 1、[LosslessCut](https://github.com/mifi/lossless-cut)
 
@@ -1272,7 +1272,7 @@ mdict 词典的安卓 App，使用 Flutter 开发，代码开源。（[@mumu-lhl
 
 ---
 
-## [第 318 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-318.md)
+## [第 318 期：创业咖啡馆的记忆](https://github.com/ruanyf/weekly/blob/master/docs/issue-318.md)
 
 1、[SuperHTML](https://github.com/kristoff-it/superhtml)
 
@@ -1346,7 +1346,7 @@ VS Code 插件，为多种常用的前端 UI 库提供注释和类型提示。�
 
 ---
 
-## [第 317 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-317.md)
+## [第 317 期：驴子、老虎和狮子的寓言](https://github.com/ruanyf/weekly/blob/master/docs/issue-317.md)
 
 1、[Applite](https://aerolite.dev/applite/index.html)
 
@@ -1420,7 +1420,7 @@ macOS 系统的平铺式窗口管理器，类似于 Linux 平台的 [i3](https:/
 
 ---
 
-## [第 316 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md)
+## [第 316 期：你一生的故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md)
 
 1、[ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 
@@ -1488,7 +1488,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 ---
 
-## [第 315 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md)
+## [第 315 期：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md)
 
 1、[Coolify](https://github.com/coollabsio/coolify)
 
@@ -1544,7 +1544,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 ---
 
-## [第 314 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md)
+## [第 314 期：《黑神话 悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md)
 
 1、[Text Search Engine](https://github.com/cjinhuo/text-search-engine/blob/master/docs/README_zh.md)
 
@@ -1604,7 +1604,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 ---
 
-## [第 313 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md)
+## [第 313 期：如果新加坡没有空调](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md)
 
 1、[ConvertFast UI](https://ui.convertfa.st/)
 
@@ -1674,7 +1674,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 ---
 
-## [第 312 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-312.md)
+## [第 312 期：从英特尔看“美国制造”](https://github.com/ruanyf/weekly/blob/master/docs/issue-312.md)
 
 1、[CodeBrew](https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297)
 
@@ -1750,7 +1750,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 ---
 
-## [第 311 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-311.md)
+## [第 311 期：低利率与长期项目](https://github.com/ruanyf/weekly/blob/master/docs/issue-311.md)
 
 1、[Zulip](https://github.com/zulip/zulip/)
 
@@ -1814,7 +1814,7 @@ neovim 编辑器的一个配置，直接帮你定制好了。
 
 ---
 
-## [第 310 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md)
+## [第 310 期：内容农场的 AI 赚钱术](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md)
 
 1、[Foliate](https://github.com/johnfactotum/foliate)
 
@@ -1874,7 +1874,7 @@ Linux 平台的 epub 电子书阅读软件。
 
 ---
 
-## [第 309 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md)
+## [第 309 期：无人驾驶出租车的双面刃](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md)
 
 1、[Floating Whiteboard](https://floating-hands-whiteboard.vercel.app/)
 
@@ -1938,7 +1938,7 @@ Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。
 
 ---
 
-## [第 308 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md)
+## [第 308 期：工作找不到，博士能读吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md)
 
 1、[KasmVNC](https://github.com/kasmtech/KasmVNC)
 
@@ -1984,7 +1984,7 @@ Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。
 
 ---
 
-## [第 307 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md)
+## [第 307 期：不要看重 Product Hunt](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md)
 
 1、[Magick.CSS](https://css.winterveil.net/)
 
@@ -2046,7 +2046,7 @@ Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。
 
 ---
 
-## [第 306 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-306.md)
+## [第 306 期：信息就像糖一样上瘾](https://github.com/ruanyf/weekly/blob/master/docs/issue-306.md)
 
 1、[Figma Slides](https://www.figma.com/slides/)
 
@@ -2108,7 +2108,7 @@ D3.js 团队推出的新的图表库，用来做线性图，大大简化了语�
 
 ---
 
-## [第 305 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-305.md)
+## [第 305 期：随机数，这是一个问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-305.md)
 
 1、[Postgres.js](https://github.com/porsager/postgres)
 
@@ -2170,7 +2170,7 @@ rm 命令的简单替代品，提供一个删除文件的回收站。（[@qqAys]
 
 ---
 
-## [第 304 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-304.md)
+## [第 304 期：最受欢迎的颜色](https://github.com/ruanyf/weekly/blob/master/docs/issue-304.md)
 
 1、[PartyKit](https://www.partykit.io/) 
 
@@ -2228,7 +2228,7 @@ Proton 公司新推出的密码管理器，支持各种系统。
 
 ---
 
-## [第 303 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-303.md)
+## [第 303 期：技术封建主义](https://github.com/ruanyf/weekly/blob/master/docs/issue-303.md)
 
 1、[sqlite-web](https://github.com/coleifer/sqlite-web)
 
@@ -2290,7 +2290,7 @@ VS Code 的插件，用来管理图片，支持压缩、搜索、裁剪、查找
 
 ---
 
-## [第 302 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-302.md)
+## [第 302 期：创业虽然好，不敢推荐了](https://github.com/ruanyf/weekly/blob/master/docs/issue-302.md)
 
 1、[SocialScreenshots](https://socialscreenshots.com/editor)
 
@@ -2362,7 +2362,7 @@ VS Code 的插件，用来管理图片，支持压缩、搜索、裁剪、查找
 
 ---
 
-## [第 301 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md)
+## [第 301 期：OpenAI 的图书馆工位](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md)
 
 1、[SunEditor](https://github.com/JiHong88/suneditor)
 
@@ -2437,7 +2437,7 @@ Algolia 公司推出的 JS 库，实现搜索关键字的自动补全。
 
 ---
 
-## [第 300 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-300.md)
+## [第 300 期：三十年，解决人生三大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-300.md)
 
 1、[GitUI](https://github.com/extrawurst/gitui)
 
@@ -2513,7 +2513,7 @@ Redis 的 JS 客户端，号称强大且快速。
 
 ---
 
-## [第 299 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-299.md)
+## [第 299 期：AI 的关键是语料](https://github.com/ruanyf/weekly/blob/master/docs/issue-299.md)
 
 1、[ElysiaJS](https://elysiajs.com/)
 
@@ -2583,7 +2583,7 @@ CodePen 的国产替代品，实时预览 HTML、CSS 和 JavaScript 代码的渲
 
 ---
 
-## [第 298 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-298.md)
+## [第 298 期：轮到硬件工程师吃香了](https://github.com/ruanyf/weekly/blob/master/docs/issue-298.md)
 
 1、[Lan Mouse](https://github.com/feschber/lan-mouse)
 
@@ -2643,7 +2643,7 @@ CodePen 的国产替代品，实时预览 HTML、CSS 和 JavaScript 代码的渲
 
 ---
 
-## [第 297 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-297.md)
+## [第 297 期：饮水鸟玩具](https://github.com/ruanyf/weekly/blob/master/docs/issue-297.md)
 
 1、[sshx](https://sshx.io/)
 
@@ -2727,7 +2727,7 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 
 ---
 
-## [第 296 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-296.md)
+## [第 296 期：xz 后门的作者 Jia Tan 是谁？](https://github.com/ruanyf/weekly/blob/master/docs/issue-296.md)
 
 1、[DOOM 验证码](https://vivirenremoto.github.io/doomcaptcha/)
 
@@ -2809,7 +2809,7 @@ VitePress 的一个插件，用于在 Markdown 文档插入可以执行的代码
 
 ---
 
-## [第 295 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-295.md)
+## [第 295 期：巧妙的灯泡钟](https://github.com/ruanyf/weekly/blob/master/docs/issue-295.md)
 
 1、[Garnet](https://github.com/microsoft/garnet)
 
@@ -2881,7 +2881,7 @@ Obsidian 编辑器的一个开源插件，使其可以用上本地的 AI 助手�
 
 ---
 
-## [第 294 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-294.md)
+## [第 294 期：崖门海战的感想](https://github.com/ruanyf/weekly/blob/master/docs/issue-294.md)
 
 1、[Frogmouth](https://github.com/Textualize/frogmouth)
 
@@ -2985,7 +2985,7 @@ Segment Anything 模型的前端交互 UI，包括了最基本的点击，画框
 
 ---
 
-## [第 293 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-293.md)
+## [第 293 期：一周是一年的2%](https://github.com/ruanyf/weekly/blob/master/docs/issue-293.md)
 
 1、[Rot](https://github.com/candiddev/rot)
 
@@ -3065,7 +3065,7 @@ Segment Anything 模型的前端交互 UI，包括了最基本的点击，画框
 
 ---
 
-## [第 292 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-292.md)
+## [第 292 期：所有代码都是技术债](https://github.com/ruanyf/weekly/blob/master/docs/issue-292.md)
 
 1、[Ente](https://github.com/ente-io/ente)
 
@@ -3137,7 +3137,7 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 ---
 
-## [第 291 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-291.md)
+## [第 291 期：AI 没有护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-291.md)
 
 1、[Spacedrive](https://www.spacedrive.com/)
 
@@ -3209,7 +3209,7 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 ---
 
-## [第 290 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-290.md)
+## [第 290 期：苹果头盔的最大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-290.md)
 
 1、[Zed](https://zed.dev/)
 
@@ -3275,7 +3275,7 @@ Rust 语言写的 Python 包管理器，速度非常快，可以替代 pip 和pi
 
 ---
 
-## [第 289 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-289.md)
+## [第 289 期：宽容从何而来](https://github.com/ruanyf/weekly/blob/master/docs/issue-289.md)
 
 1、[Noi](https://github.com/lencx/Noi)
 
@@ -3351,7 +3351,7 @@ Rust 语言写的 Python 包管理器，速度非常快，可以替代 pip 和pi
 
 ---
 
-## [第 288 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-288.md)
+## [第 288 期：技术写作的首要诀窍](https://github.com/ruanyf/weekly/blob/master/docs/issue-288.md)
 
 1、[Gemini Pro Chat](https://github.com/lchh5/GeminiPro-Next-Web)
 
@@ -3439,7 +3439,7 @@ Redis 桌面管理客户端，支持 Mac、Windows、Linux。（[@tiny-craft](ht
 
 ---
 
-## [第 287 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-287.md)
+## [第 287 期：禄丰恐龙谷记行](https://github.com/ruanyf/weekly/blob/master/docs/issue-287.md)
 
 1、[Amazing AI](https://apps.apple.com/us/app/amazing-ai/id1660147028)
 
@@ -3549,7 +3549,7 @@ C++11 编写的图像和视频处理库，内置美颜滤镜，适合为直播�
 
 ---
 
-## [第 286 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-286.md)
+## [第 286 期：蓝色指示灯的解决方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-286.md)
 
 1、[VisActor](https://visactor.io/)
 
@@ -3655,7 +3655,7 @@ VS Code 插件，为主流的前端框架提供代码提示（intellisense）。
 
 ---
 
-## [第 285 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-285.md)
+## [第 285 期：为什么 PPT 不如备忘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-285.md)
 
 1、[vx.dev](https://github.com/Yuyz0112/vx.dev)
 
@@ -3741,7 +3741,7 @@ Vercel 的 [v0.dev](https://v0.dev/) 可以通过输入需求，直接生成网�
 
 ---
 
-## [第 284 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-284.md)
+## [第 284 期：YouTube 有多少个视频？](https://github.com/ruanyf/weekly/blob/master/docs/issue-284.md)
 
 1、[Score In URL](https://powersnail.com/ScoreInUrl/)
 
@@ -3807,7 +3807,7 @@ Vercel 的 [v0.dev](https://v0.dev/) 可以通过输入需求，直接生成网�
 
 ---
 
-## [第 283 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-283.md)
+## [第 283 期：[年终感想] 没有目的地，向前走](https://github.com/ruanyf/weekly/blob/master/docs/issue-283.md)
 
 1、[snowmachine](https://github.com/sontek/snowmachine)
 
@@ -3851,7 +3851,7 @@ Chrome 浏览器插件，通过快捷键唤起一个弹窗，执行各种操作�
 
 ---
 
-## [第 282 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-282.md)
+## [第 282 期：电动皮卡 Cybertruck 的 48V 供电](https://github.com/ruanyf/weekly/blob/master/docs/issue-282.md)
 
 1、[Imagine](https://imagine.meta.com/)
 
@@ -3917,7 +3917,7 @@ AI 编程助手，支持 VS Code、 IntelliJ IDEA、PyCharm、GoLand、WebStorm 
 
 ---
 
-## [第 281 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md)
+## [第 281 期：新基建的政策选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md)
 
 1、[Cloudscape](https://cloudscape.design/)
 
@@ -3981,7 +3981,7 @@ Vue2 & Vue3 的拖拽组件。（[@Alfred-Skyblue](https://github.com/ruanyf/wee
 
 ---
 
-## [第 280 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-280.md)
+## [第 280 期：机器点餐与宅文化](https://github.com/ruanyf/weekly/blob/master/docs/issue-280.md)
 
 1、[Biome](https://biomejs.dev/)
 
@@ -4057,7 +4057,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 ---
 
-## [第 279 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-279.md)
+## [第 279 期：网络社区的悲剧](https://github.com/ruanyf/weekly/blob/master/docs/issue-279.md)
 
 1、[vectorious](https://github.com/mateogianolio/vectorious)
 
@@ -4103,7 +4103,7 @@ Chrome 浏览器插件，可以将打开的多个网页制作成一本 epub 电�
 
 ---
 
-## [第 278 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md)
+## [第 278 期：棘手的 AI 版权](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md)
 
 1、[ShortbreadAI](https://shortbread.ai/)
 
@@ -4165,7 +4165,7 @@ Chrome 浏览器插件，可以将打开的多个网页制作成一本 epub 电�
 
 ---
 
-## [第 277 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md)
+## [第 277 期：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md)
 
 1、[SSHFS](https://github.com/deadbeefsociety/sshfs)
 
@@ -4227,7 +4227,7 @@ neovim 的一套配置文件，让其快速变成一个 IDE。
 
 ---
 
-## [第 276 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md)
+## [第 276 期：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md)
 
 1、[Alexandria](https://github.com/btpf/Alexandria)
 
@@ -4293,7 +4293,7 @@ neovim 的一套配置文件，让其快速变成一个 IDE。
 
 ---
 
-## [第 275 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md)
+## [第 275 期：彼得·蒂尔的实验](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md)
 
 1、[oxc](https://github.com/web-infra-dev/oxc/)
 
@@ -4361,7 +4361,7 @@ Mac 电脑的 SSH 密钥管理工具，支持使用 Touch ID 或 Apple Watch 进
 
 ---
 
-## [第 274 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md)
+## [第 274 期：加密通信的最后一块拼图](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md)
 
 1、[Mycelite](https://github.com/mycelial/mycelite)
 
@@ -4421,7 +4421,7 @@ Mac 电脑的 SSH 密钥管理工具，支持使用 Touch ID 或 Apple Watch 进
 
 ---
 
-## [第 273 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md)
+## [第 273 期：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md)
 
 1、[Gitness](https://github.com/harness/gitness)
 
@@ -4479,7 +4479,7 @@ Atlassian 公司基于 Bootstrap v5.2 开发的一套 UI 开源组件库。
 
 ---
 
-## [第 272 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md)
+## [第 272 期：Unity 的安装费，游戏业的缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md)
 
 1、[Linkwarden](https://github.com/linkwarden/linkwarden)
 
@@ -4535,7 +4535,7 @@ Vercel 推出的一个实验性产品，使用 AI 网页生成网页。
 
 ---
 
-## [第 271 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-271.md)
+## [第 271 期：非线性的世界，线性的你](https://github.com/ruanyf/weekly/blob/master/docs/issue-271.md)
 
 1、[echoserver](https://echoserver.dev/)
 
@@ -4605,7 +4605,7 @@ JetBrains 公司最新推出的 Rust 语言 IDE，目前免费使用。
 
 ---
 
-## [第 270 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-270.md)
+## [第 270 期：“精益开发”的精益是什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-270.md)
 
 1、[Gitstars](https://github.com/cfour-hi/gitstars)
 
@@ -4673,7 +4673,7 @@ SDXL 是 Stable Diffusion 最新发布的画图模型。这是网友架设的体
 
 ---
 
-## [第 269 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-269.md)
+## [第 269 期：为什么英雄不使用炸药](https://github.com/ruanyf/weekly/blob/master/docs/issue-269.md)
 
 1、[youki](https://github.com/containers/youki)
 
@@ -4733,7 +4733,7 @@ VSCode 插件，用户可以使用快捷键，跳转到指定目录，类似于 
 
 ---
 
-## [第 268 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-268.md)
+## [第 268 期：生产力是形容机器，不是形容人](https://github.com/ruanyf/weekly/blob/master/docs/issue-268.md)
 
 1、[Simple Statistics](http://simplestatistics.org/) 
 
@@ -4797,7 +4797,7 @@ VSCode 插件，用户可以使用快捷键，跳转到指定目录，类似于 
 
 ---
 
-## [第 267 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-267.md)
+## [第 267 期：5G 的春天要来了](https://github.com/ruanyf/weekly/blob/master/docs/issue-267.md)
 
 1、[Novel](https://github.com/steven-tey/novel)
 
@@ -4859,7 +4859,7 @@ Windows 命令行包管理器 Winget 的 非官方 UI 界面。
 
 ---
 
-## [第 266 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-266.md)
+## [第 266 期：自己做双语 EPUB 电子书](https://github.com/ruanyf/weekly/blob/master/docs/issue-266.md)
 
 1、[TypeCell](https://www.typecell.org/)
 
@@ -4925,7 +4925,7 @@ Rust 语言写的 Python Linter，用来检查 Python 代码是否风格正确�
 
 ---
 
-## [第 265 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-265.md)
+## [第 265 期：WiFi 的后面是 LiFi](https://github.com/ruanyf/weekly/blob/master/docs/issue-265.md)
 
 1、[Vanilla](https://open.vanillaforums.com/)
 
@@ -4997,7 +4997,7 @@ Chrome 浏览器插件，将标签显示为类似 macOS 底部 Dock 图标栏的
 
 ---
 
-## [第 264 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-264.md)
+## [第 264 期：Elasticsearch 的启示](https://github.com/ruanyf/weekly/blob/master/docs/issue-264.md)
 
 1、[Aimless.js](https://github.com/ChrisCavs/aimless.js)
 
@@ -5059,7 +5059,7 @@ Epub 电子书生成工具，参见[教程](https://standardebooks.org/contribut
 
 ---
 
-## [第 263 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md)
+## [第 263 期：开源软件如何赚钱？](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md)
 
 1、[hiSHtory](https://github.com/ddworken/hishtory)
 
@@ -5117,7 +5117,7 @@ Chrome 94 开放了 WebCodecs API，意味着 JS 也能处理音视频了。这�
 
 ---
 
-## [第 262 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md)
+## [第 262 期：告别密码](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md)
 
 1、[Connect-Web](https://connect.build/)
 
@@ -5177,7 +5177,7 @@ Linux 系统日志 Syslog 的图形操作工具。
 
 ---
 
-## [第 261 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-261.md)
+## [第 261 期：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-261.md)
 
 1、[jianmu（建木）](https://jianmu.dev/)
 
@@ -5243,7 +5243,7 @@ Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口
 
 ---
 
-## [第 260 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md)
+## [第 260 期：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md)
 
 1、[Tushan](https://github.com/msgbyte/tushan)
 
@@ -5307,7 +5307,7 @@ Mac 应用软件，在图形界面管理 Docker 容器，据称速度比官方�
 
 ---
 
-## [第 259 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md)
+## [第 259 期：如何免费使用 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md)
 
 1、[Mosh](https://mosh.org/)
 
@@ -5377,7 +5377,7 @@ Windows 解压软件，针对多核 CPU 和高速固态硬盘优化，实现多�
 
 ---
 
-## [第 258 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md)
+## [第 258 期：卡马克的猫](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md)
 
 1、[Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 
@@ -5441,7 +5441,7 @@ GitHub Copilot 的开源替代品，AI 代码助手，可以自己架设，并�
 
 ---
 
-## [第 257 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md)
+## [第 257 期：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md)
 
 1、[Csv2ImageApp](https://github.com/fummicc1/csv2img)
 
@@ -5505,7 +5505,7 @@ GitHub Copilot 的开源替代品，AI 代码助手，可以自己架设，并�
 
 ---
 
-## [第 256 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md)
+## [第 256 期：最酷的乐高作品](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md)
 
 1、[Convoy](https://github.com/frain-dev/convoy) 
 
@@ -5571,7 +5571,7 @@ GitHub Copilot 的开源替代品，AI 代码助手，可以自己架设，并�
 
 ---
 
-## [第 255 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md)
+## [第 255 期：对待 AI 的正确态度](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md)
 
 1、[Astrodon](https://github.com/astrodon/astrodon)
 
@@ -5637,7 +5637,7 @@ AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型
 
 ---
 
-## [第 254 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md)
+## [第 254 期：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md)
 
 1、[Instant Logo Design](https://instantlogodesign.com/)
 
@@ -5703,7 +5703,7 @@ deno 实现的 npm 镜像源切换工具，每次切换都在 100ms 内，速度
 
 ---
 
-## [第 253 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md)
+## [第 253 期：训练材料用完之日](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md)
 
 1、[stagit](https://git.codemadness.org/stagit/)
 
@@ -5767,7 +5767,7 @@ deno 实现的 npm 镜像源切换工具，每次切换都在 100ms 内，速度
 
 ---
 
-## [第 252 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-252.md)
+## [第 252 期：互联网创业变难了](https://github.com/ruanyf/weekly/blob/master/docs/issue-252.md)
 
 1、[rety](https://rety.verou.me/)
 
@@ -5831,7 +5831,7 @@ Microsoft Word 的插件，集成了 ChatGPT，用来生成、修改文本。（
 
 ---
 
-## [第 251 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-251.md)
+## [第 251 期：国产单板机值得推荐](https://github.com/ruanyf/weekly/blob/master/docs/issue-251.md)
 
 1、[nango](https://www.nango.dev/)
 
@@ -5899,7 +5899,7 @@ Microsoft Word 的插件，集成了 ChatGPT，用来生成、修改文本。（
 
 ---
 
-## [第 250 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-250.md)
+## [第 250 期：新技术的最大风险](https://github.com/ruanyf/weekly/blob/master/docs/issue-250.md)
 
 1、[Alfred Home Security](https://alfred.camera/)
 
@@ -5965,7 +5965,7 @@ Bash 命令自动生成。你在命令行描述想要的操作，它通过 OpenA
 
 ---
 
-## [第 249 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-249.md)
+## [第 249 期：最成功的软件企业家](https://github.com/ruanyf/weekly/blob/master/docs/issue-249.md)
 
 1、[Vim 在线编辑器](https://www.vimonlineeditor.com/)
 
@@ -6037,7 +6037,7 @@ BLIP 2 模型的一个应用。网页上传一张图片，就可以提问相关�
 
 ---
 
-## [第 248 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-248.md)
+## [第 248 期：不要夸大 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-248.md)
 
 1、[Microsoft Loop](https://loop.microsoft.com)
 
@@ -6103,7 +6103,7 @@ BLIP 2 模型的一个应用。网页上传一张图片，就可以提问相关�
 
 ---
 
-## [第 247 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-247.md)
+## [第 247 期：扎克伯格的裁员信](https://github.com/ruanyf/weekly/blob/master/docs/issue-247.md)
 
 1、[Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
@@ -6163,7 +6163,7 @@ Postman 的 Web 开源替代品，完全在浏览器里面使用，用来调试 
 
 ---
 
-## [第 246 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-246.md)
+## [第 246 期：永不丢失的网络身份](https://github.com/ruanyf/weekly/blob/master/docs/issue-246.md)
 
 1、[Jami](https://jami.net/)
 
@@ -6203,7 +6203,7 @@ macOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重
 
 ---
 
-## [第 245 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-245.md)
+## [第 245 期：摩天大楼是反人类的](https://github.com/ruanyf/weekly/blob/master/docs/issue-245.md)
 
 1、[Catppuccin](https://github.com/catppuccin/catppuccin)
 
@@ -6263,7 +6263,7 @@ macOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重
 
 ---
 
-## [第 244 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md)
+## [第 244 期：大数据已死](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md)
 
 1、[kill-sticky](https://github.com/t-mart/kill-sticky)
 
@@ -6325,7 +6325,7 @@ macOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重
 
 ---
 
-## [第 243 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-243.md)
+## [第 243 期：与孔子 AI 聊天](https://github.com/ruanyf/weekly/blob/master/docs/issue-243.md)
 
 1、[Popup translation](https://github.com/fzdwx/popup-translation)
 
@@ -6395,7 +6395,7 @@ Mastodon 是一个分布式社交网络，作者演示了只用静态文件，�
 
 ---
 
-## [第 242 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-242.md)
+## [第 242 期：一次尴尬的服务器被黑](https://github.com/ruanyf/weekly/blob/master/docs/issue-242.md)
 
 1、[Convex](https://www.convex.dev/)
 
@@ -6457,7 +6457,7 @@ VS Code 插件，使用 GPT 模型自动生成 Git 提交说明。（[@pwwang](h
 
 ---
 
-## [第 241 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-241.md)
+## [第 241 期：中国的增长动力在内陆](https://github.com/ruanyf/weekly/blob/master/docs/issue-241.md)
 
 1、[文章总结器](https://labs.kagi.com/ai/sum)（Universal Summarizer）
 
@@ -6523,7 +6523,7 @@ iOS 应用，使用 AI 模型，大幅增强 iPhone 的相册搜索能力，可�
 
 ---
 
-## [第 240 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-240.md)
+## [第 240 期：教育年限可以缩短吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-240.md)
 
 1、[Open Props](https://open-props.style/)
 
@@ -6587,7 +6587,7 @@ JetBrains 公司推出的一款的 GitHub 竞品，具有托管代码、项目�
 
 ---
 
-## [第 239 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-239.md)
+## [第 239 期：未来两种人会增加](https://github.com/ruanyf/weekly/blob/master/docs/issue-239.md)
 
 1、[FFmpeg.guide](https://ffmpeg.guide/)
 
@@ -6647,7 +6647,7 @@ JetBrains 公司推出的一款的 GitHub 竞品，具有托管代码、项目�
 
 ---
 
-## [第 238 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-238.md)
+## [第 238 期：停止寻找的最佳时间](https://github.com/ruanyf/weekly/blob/master/docs/issue-238.md)
 
 1、[Bolt.css](https://boltcss.com/)
 
@@ -6683,7 +6683,7 @@ C++ 写的图像加密命令，可以把一个 zip 压缩包嵌入 PNG 图像，
 
 ---
 
-## [第 237 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-237.md)
+## [第 237 期：真实方位是如何暴露的？](https://github.com/ruanyf/weekly/blob/master/docs/issue-237.md)
 
 1、[MiniSearch](https://github.com/lucaong/minisearch)
 
@@ -6743,7 +6743,7 @@ V2ex 论坛的第三方客户端，支持 iOS 和安卓。（[@alaskasquirrel](h
 
 ---
 
-## [第 236 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-236.md)
+## [第 236 期：中国的阳光地带](https://github.com/ruanyf/weekly/blob/master/docs/issue-236.md)
 
 1、[tremor](https://www.tremor.so/)
 
@@ -6797,7 +6797,7 @@ Adobe 公司推出的一个工具，用来增强语音效果，使得普通的�
 
 ---
 
-## [第 235 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-235.md)
+## [第 235 期：青年失业率与选择创业](https://github.com/ruanyf/weekly/blob/master/docs/issue-235.md)
 
 1、[CasaOS](https://casaos.io/)
 
@@ -6851,7 +6851,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 ---
 
-## [第 234 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-234.md)
+## [第 234 期：AI 聊天有多强？](https://github.com/ruanyf/weekly/blob/master/docs/issue-234.md)
 
 1、[WordPress WASM](https://github.com/adamziel/wordpress-wasm)
 
@@ -6901,7 +6901,7 @@ VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效
 
 ---
 
-## [第 233 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-233.md)
+## [第 233 期：生活就像一个鱼缸](https://github.com/ruanyf/weekly/blob/master/docs/issue-233.md)
 
 1、[Plasma Bigscreen](https://plasma-bigscreen.org/)
 
@@ -6967,7 +6967,7 @@ Adobe 公司推出的一个 AI 语音引擎。你对这个引擎说一段话，�
 
 ---
 
-## [第 232 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-232.md)
+## [第 232 期：好用的平面设计软件](https://github.com/ruanyf/weekly/blob/master/docs/issue-232.md)
 
 1、[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
 
@@ -7029,7 +7029,7 @@ Adobe 公司推出的一个 AI 语音引擎。你对这个引擎说一段话，�
 
 ---
 
-## [第 231 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-231.md)
+## [第 231 期：互联网公司需要多少员工？](https://github.com/ruanyf/weekly/blob/master/docs/issue-231.md)
 
 1、[VOCALOID 6](https://www.vocaloid.com/en/) 
 
@@ -7105,7 +7105,7 @@ Facebook（现在叫 Meta）内部使用的版本管理工具，最近[开源](h
 
 ---
 
-## [第 230 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-230.md)
+## [第 230 期：电子产品的用电量](https://github.com/ruanyf/weekly/blob/master/docs/issue-230.md)
 
 1、[Upscayl](https://github.com/upscayl/upscayl)
 
@@ -7167,7 +7167,7 @@ Facebook（现在叫 Meta）内部使用的版本管理工具，最近[开源](h
 
 ---
 
-## [第 229 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-229.md)
+## [第 229 期：手机充电问题的解决](https://github.com/ruanyf/weekly/blob/master/docs/issue-229.md)
 
 1、[SourceHut](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
 
@@ -7231,7 +7231,7 @@ SQLite 官方的 wasm 项目终于来了，方便了以后网页调用 SQLite �
 
 ---
 
-## [第 228 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-228.md)
+## [第 228 期：人类和人生的意义](https://github.com/ruanyf/weekly/blob/master/docs/issue-228.md)
 
 1、[Turbopack](https://turbo.build/)
 
@@ -7297,7 +7297,7 @@ C/C++ 的单元测试框架。
 
 ---
 
-## [第 227 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-227.md)
+## [第 227 期：脸书的公司入职教育](https://github.com/ruanyf/weekly/blob/master/docs/issue-227.md)
 
 1、[mCaptcha](https://mcaptcha.org/)
 
@@ -7359,7 +7359,7 @@ Chrome 开发者工具的插件，用来增强 Tailwind CSS 的调试。
 
 ---
 
-## [第 226 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-226.md)
+## [第 226 期：谷歌出了什么问题？](https://github.com/ruanyf/weekly/blob/master/docs/issue-226.md)
 
 1、[Lyra](https://lyrasearch.io/)
 
@@ -7421,7 +7421,7 @@ Meta 公司发布的工具，可以根据输入的文本，自动生成一段视
 
 ---
 
-## [第 225 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-225.md)
+## [第 225 期：NPC 演员也是一种职业](https://github.com/ruanyf/weekly/blob/master/docs/issue-225.md)
 
 1、[Certificate Ripper](https://github.com/Hakky54/certificate-ripper)
 
@@ -7481,7 +7481,7 @@ ffmpeg 以参数复杂而闻名，这个网页应用让用户填写几个文本�
 
 ---
 
-## [第 224 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-224.md)
+## [第 224 期：Figma 为什么赢了 Sketch](https://github.com/ruanyf/weekly/blob/master/docs/issue-224.md)
 
 1、[kvass](https://github.com/maxmunzel/kvass)
 
@@ -7541,7 +7541,7 @@ Redis 和 Memcached 的替代品，内存里面的键值对数据库，号称性
 
 ---
 
-## [第 223 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-223.md)
+## [第 223 期：程序员需要担心裁员吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-223.md)
 
 1、[websocat](https://github.com/vi/websocat)
 
@@ -7601,7 +7601,7 @@ GitHub 开源动态观察，使用这个网站，可以获得某个 GitHub 仓�
 
 ---
 
-## [第 222 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-222.md)
+## [第 222 期：四十年编程感想](https://github.com/ruanyf/weekly/blob/master/docs/issue-222.md)
 
 1、[lldap](https://github.com/nitnelave/lldap)
 
@@ -7659,7 +7659,7 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 
 ---
 
-## [第 221 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-221.md)
+## [第 221 期：全世界最繁荣的行业](https://github.com/ruanyf/weekly/blob/master/docs/issue-221.md)
 
 1、[u](https://github.com/ananthakumaran/u)
 
@@ -7715,7 +7715,7 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 
 ---
 
-## [第 220 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-220.md)
+## [第 220 期：人工智能的机会在哪里](https://github.com/ruanyf/weekly/blob/master/docs/issue-220.md)
 
 1、[mjml](https://mjml.io/)
 
@@ -7775,7 +7775,7 @@ SVN 源代码仓库的 Web 管理界面，使用 PHP 开发。（[@witersen](htt
 
 ---
 
-## [第 219 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-219.md)
+## [第 219 期：如何防止帐号被黑](https://github.com/ruanyf/weekly/blob/master/docs/issue-219.md)
 
 1、[Maccy](https://maccy.app/)
 
@@ -7841,7 +7841,7 @@ SVN 源代码仓库的 Web 管理界面，使用 PHP 开发。（[@witersen](htt
 
 ---
 
-## [第 218 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-218.md)
+## [第 218 期：葡萄酒，樱花，全球变暖](https://github.com/ruanyf/weekly/blob/master/docs/issue-218.md)
 
 1、[StemRoller](https://www.stemroller.com/)
 
@@ -7901,7 +7901,7 @@ Vuepress 的一个模板库，通过 GitHub Actions，直接构建出一个静�
 
 ---
 
-## [第 217 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-217.md)
+## [第 217 期：沙特的新未来城](https://github.com/ruanyf/weekly/blob/master/docs/issue-217.md)
 
 1、[Arctype SQL](https://arctype.com/)
 
@@ -7957,7 +7957,7 @@ YY 直播的动画效果方案，涉及 iOS、安卓和 Web，包括 After Effec
 
 ---
 
-## [第 216 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-216.md)
+## [第 216 期：极简主义的胜利](https://github.com/ruanyf/weekly/blob/master/docs/issue-216.md)
 
 1、[PPZ.vscode](https://marketplace.visualstudio.com/items?itemName=ppz.ppz)
 
@@ -8021,7 +8021,7 @@ YY 直播的动画效果方案，涉及 iOS、安卓和 Web，包括 After Effec
 
 ---
 
-## [第 215 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-215.md)
+## [第 215 期：互联网最喜欢的行为模式](https://github.com/ruanyf/weekly/blob/master/docs/issue-215.md)
 
 1、[joshuto](https://github.com/kamiyaa/joshuto)
 
@@ -8083,7 +8083,7 @@ Linux 命令行下使用的文件管理器。类似的软件还有 [nnn](https:/
 
 ---
 
-## [第 214 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-214.md)
+## [第 214 期：你的地图是错的](https://github.com/ruanyf/weekly/blob/master/docs/issue-214.md)
 
 1、[Bud](https://github.com/livebud/bud)
 
@@ -8139,7 +8139,7 @@ Linux 命令行下使用的文件管理器。类似的软件还有 [nnn](https:/
 
 ---
 
-## [第 213 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-213.md)
+## [第 213 期：知识孤岛，知识软件](https://github.com/ruanyf/weekly/blob/master/docs/issue-213.md)
 
 1、[KOReader](https://koreader.rocks/)
 
@@ -8197,7 +8197,7 @@ GitHub 官方推出的一个代码库可视化工具，通过 GitHub Actions 生
 
 ---
 
-## [第 212 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-212.md)
+## [第 212 期：人生不短](https://github.com/ruanyf/weekly/blob/master/docs/issue-212.md)
 
 1、[React Arborist](https://github.com/brimdata/react-arborist)
 
@@ -8249,7 +8249,7 @@ tkinter 是 Python 自带的标准库，用来制作简单的图形界面，无�
 
 ---
 
-## [第 211 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-211.md)
+## [第 211 期：虚拟商品可以拉动 GDP](https://github.com/ruanyf/weekly/blob/master/docs/issue-211.md)
 
 1、[Kia instrument](https://www.kia.com/us/en/movement/our-instrument)
 
@@ -8307,7 +8307,7 @@ Linux 系统的窗口管理器，特点是采用滚动式窗口，屏幕垂直�
 
 ---
 
-## [第 210 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-210.md)
+## [第 210 期：为什么软件变得复杂](https://github.com/ruanyf/weekly/blob/master/docs/issue-210.md)
 
 1、[CloudMP3.cc](https://cloudmp3.cc/en/)
 
@@ -8359,7 +8359,7 @@ GitHub 有时在国内不容易打开，这里有一个服务是 GitHub 的镜�
 
 ---
 
-## [第 209 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-209.md)
+## [第 209 期：程序员是怎样的人](https://github.com/ruanyf/weekly/blob/master/docs/issue-209.md)
 
 1、[WeekToDo](https://weektodo.me/)
 
@@ -8425,7 +8425,7 @@ Go 语言的微服务框架，内置丰富的微服务能力，可以很方便�
 
 ---
 
-## [第 208 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-208.md)
+## [第 208 期：晋升制度的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-208.md)
 
 上周，一款今年刚发布的生产力软件 [FlowUs](https://flowus.cn/login?code=FLOWUS&promotionChannel=WX_RYF_01)（中文名“息流”）找我试用，希望通过我介绍给周刊读者。试用以后，我觉得这个产品体验不错，有好几个亮点，值得介绍给大家。
 
@@ -8465,7 +8465,7 @@ Go 语言的微服务框架，内置丰富的微服务能力，可以很方便�
 
 ---
 
-## [第 207 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-207.md)
+## [第 207 期：汽车行业的顶峰可能过去了](https://github.com/ruanyf/weekly/blob/master/docs/issue-207.md)
 
 1、[SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
@@ -8527,7 +8527,7 @@ Windows 桌面软件，用来下载 B 站视频，支持批量下载，支持8K�
 
 ---
 
-## [第 206 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-206.md)
+## [第 206 期：如何走出失望和怀疑](https://github.com/ruanyf/weekly/blob/master/docs/issue-206.md)
 
 1、[Postgres.js](https://github.com/porsager/postgres)
 
@@ -8589,7 +8589,7 @@ VSCode 编辑器的插件，只要你写一个函数名，它自动去 StackOver
 
 ---
 
-## [第 205 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-205.md)
+## [第 205 期：互联网风口过去了吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-205.md)
 
 1、[Noto emoji](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
 
@@ -8649,7 +8649,7 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 ---
 
-## [第 204 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-204.md)
+## [第 204 期：如何度过疫情、裁员、还有战争](https://github.com/ruanyf/weekly/blob/master/docs/issue-204.md)
 
 1、[Navidrome Music Server](https://github.com/navidrome/navidrome/)
 
@@ -8711,7 +8711,7 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 ---
 
-## [第 203 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-203.md)
+## [第 203 期：英国的名校签证，伯克利的计算机教育](https://github.com/ruanyf/weekly/blob/master/docs/issue-203.md)
 
 1、[Lexical](https://lexical.dev/)
 
@@ -8769,7 +8769,7 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 ---
 
-## [第 202 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-202.md)
+## [第 202 期：三个有启发的学习方法](https://github.com/ruanyf/weekly/blob/master/docs/issue-202.md)
 
 1、[Everything](https://www.voidtools.com/zh-cn/)
 
@@ -8827,7 +8827,7 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 ---
 
-## [第 201 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-201.md)
+## [第 201 期：中国需要成立半导体部](https://github.com/ruanyf/weekly/blob/master/docs/issue-201.md)
 
 1、[PeaZip](https://peazip.github.io/)
 
@@ -8887,7 +8887,7 @@ frp 项目的 C 语言客户端，主要用于基于 Openwrt 的路由器上，�
 
 ---
 
-## [第 200 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-200.md)
+## [第 200 期：低期望，多尝试](https://github.com/ruanyf/weekly/blob/master/docs/issue-200.md)
 
 1、[TreeSheets](https://strlen.com/treesheets/)
 
@@ -8947,7 +8947,7 @@ Go 语言写的中间人拦截工具，可以拦截 HTTPS 通信，带有插件�
 
 ---
 
-## [第 199 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-199.md)
+## [第 199 期：俄罗斯的 HTTPS 证书问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-199.md)
 
 1、[jless](https://pauljuliusmartinez.github.io/)
 
@@ -9013,7 +9013,7 @@ AirPods 新增了三轴加速度运动传感器，基于该传感器可以实现
 
 ---
 
-## [第 198 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-198.md)
+## [第 198 期：美国制造是否可能](https://github.com/ruanyf/weekly/blob/master/docs/issue-198.md)
 
 1、[Datawrapper](https://www.datawrapper.de/)
 
@@ -9077,7 +9077,7 @@ AirPods 新增了三轴加速度运动传感器，基于该传感器可以实现
 
 ---
 
-## [第 197 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-197.md)
+## [第 197 期：如果这个世界有快乐机](https://github.com/ruanyf/weekly/blob/master/docs/issue-197.md)
 
 1、[Rich](https://github.com/Textualize/rich)
 
@@ -9143,7 +9143,7 @@ AirPods 新增了三轴加速度运动传感器，基于该传感器可以实现
 
 ---
 
-## [第 196 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-196.md)
+## [第 196 期：掌机的未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-196.md)
 
 1、[mpv](https://mpv.io/)
 
@@ -9195,7 +9195,7 @@ PostgreSQL 数据库的 Web 管理面板，并且做了移动端适配。
 
 ---
 
-## [第 195 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-195.md)
+## [第 195 期：你做过不在乎结果的项目吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-195.md)
 
 1、[ulid](https://github.com/ulid/spec)
 
@@ -9247,7 +9247,7 @@ PostgreSQL 数据库的 Web 管理面板，并且做了移动端适配。
 
 ---
 
-## [第 194 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-194.md)
+## [第 194 期：悲观者正确，乐观者成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-194.md)
 
 1、[nginx playground](https://nginx-playground.wizardzines.com/)
 
@@ -9303,7 +9303,7 @@ PostgreSQL 数据库的 Web 管理面板，并且做了移动端适配。
 
 ---
 
-## [第 193 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-193.md)
+## [第 193 期：前端与后端，谁更难？](https://github.com/ruanyf/weekly/blob/master/docs/issue-193.md)
 
 1、[MockingBird](https://github.com/babysor/MockingBird)
 
@@ -9359,7 +9359,7 @@ PostgreSQL 数据库的 Web 管理面板，并且做了移动端适配。
 
 ---
 
-## [第 192 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-192.md)
+## [第 192 期：最大的机会来自新技术](https://github.com/ruanyf/weekly/blob/master/docs/issue-192.md)
 
 1、[fuite](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
 
@@ -9419,7 +9419,7 @@ Armbian 是一个将 Debian 操作系统移植到各种 ARM 开发板的 Linux �
 
 ---
 
-## [第 191 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-191.md)
+## [第 191 期：一个程序员的财务独立之路](https://github.com/ruanyf/weekly/blob/master/docs/issue-191.md)
 
 1、[xxh](https://github.com/xxh/xxh)
 
@@ -9473,7 +9473,7 @@ Armbian 是一个将 Debian 操作系统移植到各种 ARM 开发板的 Linux �
 
 ---
 
-## [第 190 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-190.md)
+## [第 190 期：产品化思维](https://github.com/ruanyf/weekly/blob/master/docs/issue-190.md)
 
 1、[deeplinks.js](https://github.com/WesleyAC/deeplinks)
 
@@ -9533,7 +9533,7 @@ Windows 系统有一个 alt-tab 组合键切换桌面的功能，这个开源软
 
 ---
 
-## [第 189 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-189.md)
+## [第 189 期：下一个内卷的行业](https://github.com/ruanyf/weekly/blob/master/docs/issue-189.md)
 
 1、[LazyDocker](https://github.com/jesseduffield/lazydocker)
 
@@ -9595,7 +9595,7 @@ Windows 系统有一个 alt-tab 组合键切换桌面的功能，这个开源软
 
 ---
 
-## [第 188 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-188.md)
+## [第 188 期：音乐是反社交](https://github.com/ruanyf/weekly/blob/master/docs/issue-188.md)
 
 1、[Swift 游乐场](https://www.apple.com/swift/playgrounds/)（Swift Playgrounds）
 
@@ -9661,7 +9661,7 @@ Linux 程序，在命令行实时显示系统的各种负载情况，是`top`命
 
 ---
 
-## [第 187 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-187.md)
+## [第 187 期：元宇宙会成功吗](https://github.com/ruanyf/weekly/blob/master/docs/issue-187.md)
 
 1、[Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 
@@ -9717,7 +9717,7 @@ Firefox 的邮件别名服务，用来隐藏真实邮件地址，目的是注册
 
 ---
 
-## [第 186 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-186.md)
+## [第 186 期：低纬度，高海拔，气候优势](https://github.com/ruanyf/weekly/blob/master/docs/issue-186.md)
 
 1、[Microdiff](https://github.com/AsyncBanana/microdiff)
 
@@ -9777,7 +9777,7 @@ Firefox 的邮件别名服务，用来隐藏真实邮件地址，目的是注册
 
 ---
 
-## [第 185 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-185.md)
+## [第 185 期：美国宪法拍卖，一个区块链案例](https://github.com/ruanyf/weekly/blob/master/docs/issue-185.md)
 
 1、[DuckDuckGo TTY](https://duckduckgo.com/tty/)
 
@@ -9841,7 +9841,7 @@ React Router 的作者发布的一个框架，在服务器运行 React 脚本，
 
 ---
 
-## [第 184 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-184.md)
+## [第 184 期：政府的存储需求有多大？](https://github.com/ruanyf/weekly/blob/master/docs/issue-184.md)
 
 1、[Hurl](https://hurl.dev/)
 
@@ -9901,7 +9901,7 @@ macOS 系统的平铺式窗口管理器，苹果电脑命令行工作者的福�
 
 ---
 
-## [第 183 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-183.md)
+## [第 183 期：腾讯的员工退休福利](https://github.com/ruanyf/weekly/blob/master/docs/issue-183.md)
 
 1、[Cloudcraft](https://www.cloudcraft.co/)
 
@@ -9961,7 +9961,7 @@ macOS 系统的平铺式窗口管理器，苹果电脑命令行工作者的福�
 
 ---
 
-## [第 182 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-182.md)
+## [第 182 期：新人优惠的风险](https://github.com/ruanyf/weekly/blob/master/docs/issue-182.md)
 
 1、[Waydroid](https://waydro.id/)
 
@@ -10027,7 +10027,7 @@ Linux 系统的平铺式窗口管理器，完全兼容 i3。区别是，i3 底�
 
 ---
 
-## [第 181 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-181.md)
+## [第 181 期：移动支付应该怎么设计？](https://github.com/ruanyf/weekly/blob/master/docs/issue-181.md)
 
 1、[EBS Design](https://github.com/ebs-integrator/ebs-design)
 
@@ -10095,7 +10095,7 @@ Linux 系统的平铺式窗口管理器，完全兼容 i3。区别是，i3 底�
 
 ---
 
-## [第 180 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-180.md)
+## [第 180 期：你想住在中国哪里？](https://github.com/ruanyf/weekly/blob/master/docs/issue-180.md)
 
 1、[super-image](https://huggingface.co/spaces/eugenesiow/super-image)
 
@@ -10153,7 +10153,7 @@ jsvu 是一个 JS 引擎的调用器，用来调用各种 JS 引擎（比如 V8�
 
 ---
 
-## [第 179 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-179.md)
+## [第 179 期：AR 技术的打开方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-179.md)
 
 1、[htmlq](https://github.com/mgdm/htmlq)
 
@@ -10215,7 +10215,7 @@ macOS 应用，可以对系统播放的声音（比如浏览器、视频播放�
 
 ---
 
-## [第 178 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-178.md)
+## [第 178 期：家庭太阳能发电的春天](https://github.com/ruanyf/weekly/blob/master/docs/issue-178.md)
 
 1、[listmonk](https://github.com/knadh/listmonk)
 
@@ -10273,7 +10273,7 @@ Windows 原生的网络管理器非常难用，这是一个第三方的网络管
 
 ---
 
-## [第 177 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-177.md)
+## [第 177 期：iPad 的真正用途](https://github.com/ruanyf/weekly/blob/master/docs/issue-177.md)
 
 1、[DataStation](https://github.com/multiprocessio/datastation)
 
@@ -10329,7 +10329,7 @@ GitHub 有一个官方接口，将 Markdown 源码转为 HTML 代码。这个项
 
 ---
 
-## [第 176 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-176.md)
+## [第 176 期：中国法院承认 GPL 吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-176.md)
 
 1、[Ventoy](https://github.com/ventoy/Ventoy)
 
@@ -10391,7 +10391,7 @@ GitHub 有一个官方接口，将 Markdown 源码转为 HTML 代码。这个项
 
 ---
 
-## [第 175 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-175.md)
+## [第 175 期：知识广度 vs 知识深度](https://github.com/ruanyf/weekly/blob/master/docs/issue-175.md)
 
 1、[Clip It](https://hypetrigger.io/clipit/)
 
@@ -10443,7 +10443,7 @@ GitHub 有一个官方接口，将 Markdown 源码转为 HTML 代码。这个项
 
 ---
 
-## [第 174 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-174.md)
+## [第 174 期：全能程序员 vs 特长程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-174.md)
 
 1、[FeedAdd](https://feeddd.org/)
 
@@ -10495,7 +10495,7 @@ Excel 公式的 JS 版，目前有300多个公式。同时，这个库也提供�
 
 ---
 
-## [第 173 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-173.md)
+## [第 173 期：网络收音机的设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-173.md)
 
 1、[RAWGraphs](https://rawgraphs.io/)
 
@@ -10549,7 +10549,7 @@ Dropbox 的非官方开源客户端，支持 Mac 和 Linux，特点是资源占�
 
 ---
 
-## [第 172 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-172.md)
+## [第 172 期：我们会死于气候灾难吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-172.md)
 
 1、[txiki.js](https://github.com/saghul/txiki.js)
 
@@ -10601,7 +10601,7 @@ macOS 系统的 PostgreSQL 数据库安装包，并且内置了许多常用插�
 
 ---
 
-## [第 171 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-171.md)
+## [第 171 期：云服务流量有多贵？](https://github.com/ruanyf/weekly/blob/master/docs/issue-171.md)
 
 1、[Muboard](https://github.com/susam/muboard)
 
@@ -10665,7 +10665,7 @@ Muse 是一个无代码的网站生成器，但是生成的是 3D 虚拟网站�
 
 ---
 
-## [第 170 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-170.md)
+## [第 170 期：软件订阅制的胜利](https://github.com/ruanyf/weekly/blob/master/docs/issue-170.md)
 
 1、[Obsidian](https://obsidian.md/mobile)
 
@@ -10713,7 +10713,7 @@ Muse 是一个无代码的网站生成器，但是生成的是 3D 虚拟网站�
 
 ---
 
-## [第 169 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-169.md)
+## [第 169 期：五菱汽车的产品设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-169.md)
 
 1、[Orbit](https://orbit.kiwi/)
 
@@ -10763,7 +10763,7 @@ Muse 是一个无代码的网站生成器，但是生成的是 3D 虚拟网站�
 
 ---
 
-## [第 168 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-168.md)
+## [第 168 期：游戏《底特律 变人》](https://github.com/ruanyf/weekly/blob/master/docs/issue-168.md)
 
 1、[Difftastic](https://github.com/wilfred/difftastic)
 
@@ -10825,7 +10825,7 @@ Muse 是一个无代码的网站生成器，但是生成的是 3D 虚拟网站�
 
 ---
 
-## [第 167 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-167.md)
+## [第 167 期：广告拦截器太过分了](https://github.com/ruanyf/weekly/blob/master/docs/issue-167.md)
 
 1、[Git: An Interactive History](https://git-history.jpalmer.dev/)
 
@@ -10883,7 +10883,7 @@ macOS 的 SFTP 服务的开源客户端，用来向 FTP 上传或下载文件。
 
 ---
 
-## [第 166 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-166.md)
+## [第 166 期：视频学习胜过读书吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-166.md)
 
 1、[kcal](https://github.com/kcal-app/kcal)
 
@@ -10935,7 +10935,7 @@ macOS 的 SFTP 服务的开源客户端，用来向 FTP 上传或下载文件。
 
 ---
 
-## [第 165 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-165.md)
+## [第 165 期：全端 App 的时代](https://github.com/ruanyf/weekly/blob/master/docs/issue-165.md)
 
 1、[NVIDIA Canvas](https://www.nvidia.com/en-gb/studio/canvas/)
 
@@ -10991,7 +10991,7 @@ Chrome 浏览器内置的“恐龙跳跃”小游戏，被网友从 JavaScript �
 
 ---
 
-## [第 164 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-164.md)
+## [第 164 期：培训班 vs 大学，求职成功率比较](https://github.com/ruanyf/weekly/blob/master/docs/issue-164.md)
 
 1、[Astro](https://github.com/snowpackjs/astro)
 
@@ -11047,7 +11047,7 @@ SQLite 作者 D.理查德·希普写的 HTTP 服务器，SQLite 网站就是用�
 
 ---
 
-## [第 163 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-163.md)
+## [第 163 期：你的城市有多少张病床？](https://github.com/ruanyf/weekly/blob/master/docs/issue-163.md)
 
 1、[n8n](https://n8n.io/)
 
@@ -11109,7 +11109,7 @@ SQLite 作者 D.理查德·希普写的 HTTP 服务器，SQLite 网站就是用�
 
 ---
 
-## [第 162 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-162.md)
+## [第 162 期：生活就像《吃豆人》游戏](https://github.com/ruanyf/weekly/blob/master/docs/issue-162.md)
 
 1、[WireGuard Easy](https://github.com/WeeJeWel/wg-easy)
 
@@ -11161,7 +11161,7 @@ Linux 的 WireGuard 安装工具，并且提供 Web UI 的管理界面。
 
 ---
 
-## [第 161 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-161.md)
+## [第 161 期：再见了，学术硕士](https://github.com/ruanyf/weekly/blob/master/docs/issue-161.md)
 
 1、[sqliteviz](https://github.com/lana-k/sqliteviz)
 
@@ -11215,7 +11215,7 @@ JetBrains 公司推出的新工具，允许使用 Kotlin 语言开发 Web UI，�
 
 ---
 
-## [第 160 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-160.md)
+## [第 160 期：中年码农的困境](https://github.com/ruanyf/weekly/blob/master/docs/issue-160.md)
 
 1、[Slidev](https://github.com/slidevjs/slidev)
 
@@ -11273,7 +11273,7 @@ Chrome 浏览器的插件，可以让新标签页变成一个文本编辑器。�
 
 ---
 
-## [第 159 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-159.md)
+## [第 159 期：游戏开发者的年薪](https://github.com/ruanyf/weekly/blob/master/docs/issue-159.md)
 
 1、[Scheme flood](https://schemeflood.com/)
 
@@ -11329,7 +11329,7 @@ Chrome 浏览器的插件，可以让新标签页变成一个文本编辑器。�
 
 ---
 
-## [第 158 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-158.md)
+## [第 158 期：内容渠道的贬值](https://github.com/ruanyf/weekly/blob/master/docs/issue-158.md)
 
 1、[Semgrep](https://github.com/returntocorp/semgrep)
 
@@ -11385,7 +11385,7 @@ Chrome 浏览器的插件，可以让新标签页变成一个文本编辑器。�
 
 ---
 
-## [第 157 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-157.md)
+## [第 157 期：KK 给年轻人的建议](https://github.com/ruanyf/weekly/blob/master/docs/issue-157.md)
 
 1、[Puppeteer Console](pptrconsole.com)
 
@@ -11437,7 +11437,7 @@ Linux 服务器的一个开源的监控服务，功能非常强大。
 
 ---
 
-## [第 156 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-156.md)
+## [第 156 期：显卡缺货与异业竞争](https://github.com/ruanyf/weekly/blob/master/docs/issue-156.md)
 
 1、[MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics)
 
@@ -11497,7 +11497,7 @@ Vue3 的 Material Design 移动页面组件库。（[@BeADre](https://github.com
 
 ---
 
-## [第 155 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-155.md)
+## [第 155 期：数字货币是打破美元霸权的武器吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-155.md)
 
 1、[xip.io](http://xip.io/)
 
@@ -11547,7 +11547,7 @@ VS Code 的插件，可以根据编写代码的风格和速度，自动播放从
 
 ---
 
-## [第 154 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-154.md)
+## [第 154 期：1982年的信息社会预言](https://github.com/ruanyf/weekly/blob/master/docs/issue-154.md)
 
 1、[FicusJS](https://docs.ficusjs.org/index.html)
 
@@ -11607,7 +11607,7 @@ Windows 屏幕保护程序，在屏保时自动播放 Apple TV 的屏保视频�
 
 ---
 
-## [第 153 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-153.md)
+## [第 153 期：机器翻译是对译者的侮辱吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-153.md)
 
 1、[xeuledoc](https://github.com/Malfrats/xeuledoc)
 
@@ -11663,7 +11663,7 @@ CSS 标准一共列出了148种有名称的颜色，这个在线工具用来在�
 
 ---
 
-## [第 152 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-152.md)
+## [第 152 期：从北大到技校](https://github.com/ruanyf/weekly/blob/master/docs/issue-152.md)
 
 1、[Wombo](https://www.wombo.ai/)
 
@@ -11719,7 +11719,7 @@ CSS 标准一共列出了148种有名称的颜色，这个在线工具用来在�
 
 ---
 
-## [第 151 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-151.md)
+## [第 151 期：NFT 是什么，听说能赚钱](https://github.com/ruanyf/weekly/blob/master/docs/issue-151.md)
 
 1、[Gotify](https://gotify.net/)
 
@@ -11775,7 +11775,7 @@ GitBook 的 Rust 语言移植，可以将 markdown 源文件转成一个在线�
 
 ---
 
-## [第 150 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-150.md)
+## [第 150 期：当音乐还是稀缺的时候](https://github.com/ruanyf/weekly/blob/master/docs/issue-150.md)
 
 1、[LinkDOM](https://github.com/WebReflection/linkedom)
 
@@ -11827,7 +11827,7 @@ FFmpeg 的 Python 包装库，将复杂的命令行参数转成易用的 API。
 
 ---
 
-## [第 149 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-149.md)
+## [第 149 期：新能源汽车，谁会是赢家？](https://github.com/ruanyf/weekly/blob/master/docs/issue-149.md)
 
 1、[TabFloater](https://www.tabfloater.io/)
 
@@ -11885,7 +11885,7 @@ macOS 应用，通过火焰图，进行磁盘可视化分析和清理。([@yujin
 
 ---
 
-## [第 148 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-148.md)
+## [第 148 期：微增长时代](https://github.com/ruanyf/weekly/blob/master/docs/issue-148.md)
 
 1、[GitHub Skyline](https://skyline.github.com/)
 
@@ -11945,7 +11945,7 @@ macOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows �
 
 ---
 
-## [第 147 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-147.md)
+## [第 147 期：寻找你愿意忍受的痛苦](https://github.com/ruanyf/weekly/blob/master/docs/issue-147.md)
 
 1、[Beaker](https://beakerbrowser.com/)
 
@@ -11995,7 +11995,7 @@ VS Code 编辑器的插件，内置了各种英语单词的词库，供用户做
 
 ---
 
-## [第 146 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-146.md)
+## [第 146 期：网课应该怎么上？](https://github.com/ruanyf/weekly/blob/master/docs/issue-146.md)
 
 1、[Coding Fonts](https://coding-fonts.css-tricks.com/)
 
@@ -12043,7 +12043,7 @@ VS Code 编辑器的插件，内置了各种英语单词的词库，供用户做
 
 ---
 
-## [第 145 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-145.md)
+## [第 145 期：大家不出门，经济怎么办？](https://github.com/ruanyf/weekly/blob/master/docs/issue-145.md)
 
 1、[Ebook Reader](https://www.loudreader.com/)
 
@@ -12097,7 +12097,7 @@ Web 端的多人在线聊天室，特色是支持端到端加密。（[@Dup4](ht
 
 ---
 
-## [第 144 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-144.md)
+## [第 144 期：提高收入的根本途径](https://github.com/ruanyf/weekly/blob/master/docs/issue-144.md)
 
 1、[Sosumi](https://github.com/popey/sosumi-snap)
 
@@ -12153,7 +12153,7 @@ Python 的数据可视化图表生成工具，基于蚂蚁集团开源的 G2Plot
 
 ---
 
-## [第 143 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
+## [第 143 期：世界尽头与冷酷仙境](https://github.com/ruanyf/weekly/blob/master/docs/issue-143.md)
 
 1、[andala](https://www.aliciaunderhill.xyz/Andala/)
 
@@ -12207,7 +12207,7 @@ Chrome 浏览器插件，可以将“谷歌图片搜索”恢复成改版前的�
 
 ---
 
-## [第 142 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-142.md)
+## [第 142 期：2020年才是21世纪元年](https://github.com/ruanyf/weekly/blob/master/docs/issue-142.md)
 
 1、[locust](https://locust.io/)
 
@@ -12259,7 +12259,7 @@ Chrome 浏览器插件，可以将“谷歌图片搜索”恢复成改版前的�
 
 ---
 
-## [第 141 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-141.md)
+## [第 141 期：封闭系统的胜利](https://github.com/ruanyf/weekly/blob/master/docs/issue-141.md)
 
 1、[best-resume-ever](https://github.com/salomonelli/best-resume-ever)
 
@@ -12327,7 +12327,7 @@ OpenAI 公司又推出了一个神奇的软件 DALL-E，可以根据文字描述
 
 ---
 
-## [第 140 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-140.md)
+## [第 140 期：印度人的工资是多少？](https://github.com/ruanyf/weekly/blob/master/docs/issue-140.md)
 
 1、[email-verifier](https://github.com/aftership/email-verifier)
 
@@ -12373,7 +12373,7 @@ VS Code 的一个插件，提供交互式编码环境，可以直接运行 HTML 
 
 ---
 
-## [第 139 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-139.md)
+## [第 139 期：生物学的可怕进展](https://github.com/ruanyf/weekly/blob/master/docs/issue-139.md)
 
 1、[imgdiff](https://github.com/n7olkachev/imgdiff)
 
@@ -12423,7 +12423,7 @@ Cloudflare 推出的静态网站构建和托管服务，目前正在 beta 测试
 
 ---
 
-## [第 138 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-138.md)
+## [第 138 期：失业难以避免，重构人生规划](https://github.com/ruanyf/weekly/blob/master/docs/issue-138.md)
 
 1、[TinyCheck](https://github.com/KasperskyLab/TinyCheck)
 
@@ -12485,7 +12485,7 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 ---
 
-## [第 137 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-137.md)
+## [第 137 期：Slack 被收购，以及企业的技术选型](https://github.com/ruanyf/weekly/blob/master/docs/issue-137.md)
 
 1、[nonstop](https://github.com/yuxiaoy1/nonstop)
 
@@ -12543,7 +12543,7 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 ---
 
-## [第 136 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-136.md)
+## [第 136 期：利特伍德奇迹定律](https://github.com/ruanyf/weekly/blob/master/docs/issue-136.md)
 
 1、[Popper](https://popper.js.org/)
 
@@ -12611,7 +12611,7 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 ---
 
-## [第 135 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-135.md)
+## [第 135 期：什么行业适合创业？](https://github.com/ruanyf/weekly/blob/master/docs/issue-135.md)
 
 1、 [Your First GitHub Commit](https://www.amitmerchant.com/your-first-commit-ever/)
 
@@ -12663,7 +12663,7 @@ IntelliJ IDEA 的官方插件，允许多人在 IDE 里面实时协同编程。�
 
 ---
 
-## [第 134 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-134.md)
+## [第 134 期：未来的游戏业比现在大100倍](https://github.com/ruanyf/weekly/blob/master/docs/issue-134.md)
 
 1、[Plasma Bigscreen](https://plasma-bigscreen.org/)
 
@@ -12717,7 +12717,7 @@ k8s 终端可视化管理器 。（[@elfgzp](https://github.com/ruanyf/weekly/is
 
 ---
 
-## [第 133 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-133.md)
+## [第 133 期：贵州变瑞士，有没有可能？](https://github.com/ruanyf/weekly/blob/master/docs/issue-133.md)
 
 1、[presenta](https://github.com/presenta-software/presenta-lib)
 
@@ -12773,7 +12773,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 ---
 
-## [第 132 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-132.md)
+## [第 132 期：快能力和慢能力](https://github.com/ruanyf/weekly/blob/master/docs/issue-132.md)
 
 1、[Dendron](https://www.dendron.so/)
 
@@ -12835,7 +12835,7 @@ Vue 3 的一个 Hook，用来制作表单。（[@beizhedenglong](https://github.
 
 ---
 
-## [第 131 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-131.md)
+## [第 131 期：你的头脑是二值逻辑，还是三值逻辑？](https://github.com/ruanyf/weekly/blob/master/docs/issue-131.md)
 
 1、[ConsoleChat.io](https://www.consolechat.io/)
 
@@ -12893,7 +12893,7 @@ Diode 可以将本机（localhost）的网站公开到互联网上，提供一�
 
 ---
 
-## [第 130 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-130.md)
+## [第 130 期：低龄化的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-130.md)
 
 1、[tiptap](https://github.com/ueberdosis/tiptap)
 
@@ -12949,7 +12949,7 @@ Windows 桌面软件，提供文本文件的全文搜索。
 
 ---
 
-## [第 129 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-129.md)
+## [第 129 期：创业的凸函数和凹函数](https://github.com/ruanyf/weekly/blob/master/docs/issue-129.md)
 
 1、[playwright-python](https://github.com/microsoft/playwright-python)
 
@@ -13013,7 +13013,7 @@ DigitalOcean 发布应用程序平台，跟 GitHub 深度融合，可以直接�
 
 ---
 
-## [第 128 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-128.md)
+## [第 128 期：这个社会是否正在变成“赛博朋克”？](https://github.com/ruanyf/weekly/blob/master/docs/issue-128.md)
 
 1、[吃豆人迷宫生成器](https://shaunlebron.github.io/pacman-mazegen/)
 
@@ -13069,7 +13069,7 @@ Facebook 推出的一个静态代码分析工具，可以分析 Java、C++、Obj
 
 ---
 
-## [第 127 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-127.md)
+## [第 127 期：未来人人开发软件，几乎没人编码](https://github.com/ruanyf/weekly/blob/master/docs/issue-127.md)
 
 1、[Tables](https://tables.area120.google.com/u/0/about#/)
 
@@ -13129,7 +13129,7 @@ Airbnb 推出的一套数据可视化组件库，基于 D3 和 React。
 
 ---
 
-## [第 126 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-126.md)
+## [第 126 期：内卷化是什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-126.md)
 
 1、[instant.page](https://instant.page/)
 
@@ -13187,7 +13187,7 @@ Airbnb 推出的一套数据可视化组件库，基于 D3 和 React。
 
 ---
 
-## [第 125 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-125.md)
+## [第 125 期：数字人民币要取代谁](https://github.com/ruanyf/weekly/blob/master/docs/issue-125.md)
 
 1、[Diffchecker](https://www.diffchecker.com/)
 
@@ -13245,7 +13245,7 @@ ELK 平台（Elasticsearch，Logstash，Kibana）的定时任务管理工具，�
 
 ---
 
-## [第 124 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-124.md)
+## [第 124 期：华为如何考核员工](https://github.com/ruanyf/weekly/blob/master/docs/issue-124.md)
 
 1、[responsively](https://github.com/responsively-org/responsively-app)
 
@@ -13291,7 +13291,7 @@ ELK 平台（Elasticsearch，Logstash，Kibana）的定时任务管理工具，�
 
 ---
 
-## [第 123 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-123.md)
+## [第 123 期：互联网公司与湘军的军制](https://github.com/ruanyf/weekly/blob/master/docs/issue-123.md)
 
 1、[Bootstrap 图标库](https://github.com/twbs/icons)
 
@@ -13341,7 +13341,7 @@ Bootstrap 的图标库发布1.0正式版，包含1100多个图标，全部都是
 
 ---
 
-## [第 122 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-122.md)
+## [第 122 期：谈谈互联网公司的高估值](https://github.com/ruanyf/weekly/blob/master/docs/issue-122.md)
 
 1、[Ventoy](https://www.ventoy.net/cn/index.html)
 
@@ -13385,7 +13385,7 @@ Bootstrap 的图标库发布1.0正式版，包含1100多个图标，全部都是
 
 ---
 
-## [第 121 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-121.md)
+## [第 121 期：为什么人类没有越来越闲？](https://github.com/ruanyf/weekly/blob/master/docs/issue-121.md)
 
 1、[QRpicture](https://www.qrpicture.com/)
 
@@ -13435,7 +13435,7 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 ---
 
-## [第 120 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-120.md)
+## [第 120 期：只有开放才能打败封锁](https://github.com/ruanyf/weekly/blob/master/docs/issue-120.md)
 
 1、[Fast](https://fast.design/docs/introduction)
 
@@ -13489,7 +13489,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 ---
 
-## [第 119 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-119.md)
+## [第 119 期：降雨量和保险博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-119.md)
 
 1、[Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
@@ -13551,7 +13551,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 ---
 
-## [第 118 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-118.md)
+## [第 118 期：高考志愿怎么填](https://github.com/ruanyf/weekly/blob/master/docs/issue-118.md)
 
 1、[wiby](https://wiby.org/)
 
@@ -13605,7 +13605,7 @@ React 的表格组件库，新的 7.0 版完全采用 Hooks 设计。
 
 ---
 
-## [第 117 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-117.md)
+## [第 117 期：我不想让你记住我的脸](https://github.com/ruanyf/weekly/blob/master/docs/issue-117.md)
 
 1、[Passbolt](https://www.passbolt.com/)
 
@@ -13661,7 +13661,7 @@ Node.js 应用的性能监控工具，可以定位线上故障。代码开源，
 
 ---
 
-## [第 116 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-116.md)
+## [第 116 期：世界的未来是一个火药桶](https://github.com/ruanyf/weekly/blob/master/docs/issue-116.md)
 
 1、[Brython](https://brython.info/)
 
@@ -13717,7 +13717,7 @@ Babel 和 Yarn 作者推出的新工具，目标是将所有 JavaScript 开发�
 
 ---
 
-## [第 115 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-115.md)
+## [第 115 期：保护你的 DNA，不要泄漏](https://github.com/ruanyf/weekly/blob/master/docs/issue-115.md)
 
 1、[ward](https://github.com/B-Software/Ward)
 
@@ -13767,7 +13767,7 @@ GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本
 
 ---
 
-## [第 114 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-114.md)
+## [第 114 期：U 盘化生存和 Uber-job](https://github.com/ruanyf/weekly/blob/master/docs/issue-114.md)
 
 1、[Tiny C 编译器](https://bellard.org/tcc/)
 
@@ -13819,7 +13819,7 @@ VS Code 的一个插件，使得 VS Code 可以用于个人的笔记和知识管
 
 ---
 
-## [第 113 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-113.md)
+## [第 113 期：暴力犯罪为什么越来越少？](https://github.com/ruanyf/weekly/blob/master/docs/issue-113.md)
 
 1、[Geany](https://www.geany.org/)
 
@@ -13875,7 +13875,7 @@ Chrome 浏览器的扩展，可以对选中的网页文字，生成一个 URL。
 
 ---
 
-## [第 112 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-112.md)
+## [第 112 期：如何培养领导力](https://github.com/ruanyf/weekly/blob/master/docs/issue-112.md)
 
 1、[xrdp](https://github.com/neutrinolabs/xrdp)
 
@@ -13931,7 +13931,7 @@ Adobe 公司推出的手机拍照软件，只要按下快门，就可以拍出�
 
 ---
 
-## [第 111 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-111.md)
+## [第 111 期：智能电视的误区](https://github.com/ruanyf/weekly/blob/master/docs/issue-111.md)
 
 1、[Grid.js](https://gridjs.io/)
 
@@ -13983,7 +13983,7 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 ---
 
-## [第 110 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-110.md)
+## [第 110 期：如果不能去美国上市](https://github.com/ruanyf/weekly/blob/master/docs/issue-110.md)
 
 1、[Straight 2 spam](https://straight2spam.com/)
 
@@ -14037,7 +14037,7 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 ---
 
-## [第 109 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-109.md)
+## [第 109 期：播客的价值](https://github.com/ruanyf/weekly/blob/master/docs/issue-109.md)
 
 1、[pose-animator](https://github.com/yemount/pose-animator)
 
@@ -14097,7 +14097,7 @@ VS Code 编辑器里面的微信读书客户端。（[@goobyter](https://github.
 
 ---
 
-## [第 108 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-108.md)
+## [第 108 期：第 108 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-108.md)
 
 1、[spug](https://github.com/openspug/spug)
 
@@ -14153,7 +14153,7 @@ Mozilla 推出的虚拟 3D 聚会服务，可以自己架设服务端。
 
 ---
 
-## [第 107 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-107.md)
+## [第 107 期：第 107 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-107.md)
 
 1、[endpoints.dev](https://www.endpoints.dev/)
 
@@ -14209,7 +14209,7 @@ GitHub 非官方的代码搜索引擎，支持正则搜索。
 
 ---
 
-## [第 106 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-106.md)
+## [第 106 期：第 106 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-106.md)
 
 1、[Tara](https://tara.ai/)
 
@@ -14261,7 +14261,7 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
 
 ---
 
-## [第 105 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-105.md)
+## [第 105 期：第 105 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-105.md)
 
 1、[小悦记](https://mp.weixin.qq.com/s/hCZWQEfHrCAxTiO0h8ukJw)
 
@@ -14319,7 +14319,7 @@ iOS 设备的命令行 App，免费软件。
 
 ---
 
-## [第 104 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-104.md)
+## [第 104 期：第 104 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-104.md)
 
 1、[Falcon](https://github.com/plotly/falcon)
 
@@ -14379,7 +14379,7 @@ HoServer 是基于 Node.js Express 的 RESTful 接口服务和管理平台，一
 
 ---
 
-## [第 103 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-103.md)
+## [第 103 期：第 103 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-103.md)
 
 1、[markmap-lib](https://markmap.js.org/)
 
@@ -14431,7 +14431,7 @@ Chrome 浏览器插件，可以一次性列出所有 Tab 的网页 URL，方便�
 
 ---
 
-## [第 102 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-102.md)
+## [第 102 期：第 102 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-102.md)
 
 1、[Messenger 桌面版](https://www.microsoft.com/en-us/p/messenger/9wzdncrf0083#activetab=pivot:overviewtab)
 
@@ -14485,7 +14485,7 @@ Chrome 浏览器插件，可以一次性列出所有 Tab 的网页 URL，方便�
 
 ---
 
-## [第 101 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-101.md)
+## [第 101 期：第 101 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-101.md)
 
 1、[GoMailer](https://github.com/DuanJiaNing/GoMailer)
 
@@ -14545,7 +14545,7 @@ Chrome 浏览器插件，可以一次性列出所有 Tab 的网页 URL，方便�
 
 ---
 
-## [第 100 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-100.md)
+## [第 100 期：第 100 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-100.md)
 
 1、[pwgen](https://github.com/kherrick/pwgen/)
 
@@ -14601,7 +14601,7 @@ React 的组件可视化拖拽页面编辑与代码生成工具，让不会 Reac
 
 ---
 
-## [第 99 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-99.md)
+## [第 99 期：第 99 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-99.md)
 
 1、[openVidu](https://openvidu.io/)
 
@@ -14661,7 +14661,7 @@ GitHub 的官方手机客户端，安卓和 iOS 都支持，可以发 issue、�
 
 ---
 
-## [第 98 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-98.md)
+## [第 98 期：第 98 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-98.md)
 
 1、[这里有多少只猫？](https://stylishsite.github.io/)
 
@@ -14713,7 +14713,7 @@ Electron 的替代品，使用 React Native 的语法开发跨平台的桌面应
 
 ---
 
-## [第 97 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-97.md)
+## [第 97 期：第 97 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-97.md)
 
 1、[netgraph](https://github.com/ga0/netgraph)
 
@@ -14765,7 +14765,7 @@ Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板�
 
 ---
 
-## [第 96 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-96.md)
+## [第 96 期：第 96 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-96.md)
 
 1、[GayHub](https://github.com/jawil/GayHub)
 
@@ -14817,7 +14817,7 @@ AI 写作助手，可以给出文章中的语言错误。（@[iiismile](https://
 
 ---
 
-## [第 95 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-95.md)
+## [第 95 期：第 95 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-95.md)
 
 1、[sscaffold-css](https://sscaffold-css.com/)
 
@@ -14863,7 +14863,7 @@ Chrome 浏览器插件，互联网档案馆的官方版本，可以查看一个�
 
 ---
 
-## [第 94 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-94.md)
+## [第 94 期：第 94 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-94.md)
 
 1、[Snip](https://mathpix.com/)
 
@@ -14917,7 +14917,7 @@ Chrome 浏览器插件，可以三维显示 GitHub 的提交统计。（@[ryuzhe
 
 ---
 
-## [第 93 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-93.md)
+## [第 93 期：第 93 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-93.md)
 
 1、[monica](https://github.com/monicahq/monica)
 
@@ -14975,7 +14975,7 @@ Chrome 浏览器插件，可以三维显示 GitHub 的提交统计。（@[ryuzhe
 
 ---
 
-## [第 92 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-92.md)
+## [第 92 期：第 92 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-92.md)
 
 1、[极客阅读](https://www.yuque.com/docs/share/74c8695f-d2ce-4dbd-aee1-b92be37ecdf4)
 
@@ -15029,7 +15029,7 @@ Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 ---
 
-## [第 91 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-91.md)
+## [第 91 期：第 91 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-91.md)
 
 1、[Pixlr X](https://pixlr.com/x)
 
@@ -15093,7 +15093,7 @@ Mac 电脑的软件，可以隐藏/展开系统状态栏的图标。
 
 ---
 
-## [第 90 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-90.md)
+## [第 90 期：第 90 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-90.md)
 
 1、[Elementary OS](https://blog.elementary.io/introducing-elementary-os-5-1-hera/)
 
@@ -15161,7 +15161,7 @@ Cloudflare 正式发布 workers 功能了，允许网站直接部署在它的边
 
 ---
 
-## [第 89 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-89.md)
+## [第 89 期：第 89 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-89.md)
 
 1、[Legra.js](https://legrajs.com/)
 
@@ -15215,7 +15215,7 @@ Arya 是一款基于 Vue 的在线 Markdown 编辑器，粘贴 HTML 自动转换
 
 ---
 
-## [第 88 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-88.md)
+## [第 88 期：第 88 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-88.md)
 
 1、[EasyDB](https://easydb.io/)
 
@@ -15277,7 +15277,7 @@ Arya 是一款基于 Vue 的在线 Markdown 编辑器，粘贴 HTML 自动转换
 
 ---
 
-## [第 87 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-87.md)
+## [第 87 期：第 87 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-87.md)
 
 1、 [vy](https://github.com/vyapp/vy)
 
@@ -15335,7 +15335,7 @@ Chrome 浏览器插件，让浏览同一个网页的访问者互联聊天，[源
 
 ---
 
-## [第 86 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-86.md)
+## [第 86 期：第 86 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-86.md)
 
 1、[fingerprint.js](https://github.com/Valve/fingerprintjs2)
 
@@ -15387,7 +15387,7 @@ API 文档的静态站点生成器。
 
 ---
 
-## [第 85 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-85.md)
+## [第 85 期：第 85 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-85.md)
 
 1、[幼儿密码](https://www.toddlerpassword.com/)
 
@@ -15439,7 +15439,7 @@ API 文档的静态站点生成器。
 
 ---
 
-## [第 84 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-84.md)
+## [第 84 期：第 84 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-84.md)
 
 1、[aimAndShoot](https://github.com/victorqribeiro/aimAndShoot)
 
@@ -15497,7 +15497,7 @@ SearX 是一个开源的搜索代理，可以自己架设谷歌实例，查看 [
 
 ---
 
-## [第 83 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-83.md)
+## [第 83 期：第 83 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-83.md)
 
 1、[OnionShare](https://onionshare.org/)
 
@@ -15551,7 +15551,7 @@ SearX 是一个开源的搜索代理，可以自己架设谷歌实例，查看 [
 
 ---
 
-## [第 82 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-82.md)
+## [第 82 期：第 82 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-82.md)
 
 1、[Apache Guacamole](https://guacamole.apache.org/)
 
@@ -15617,7 +15617,7 @@ GitHub 首次发布官方的手机客户端，目前只有 iOS 的 App，安卓�
 
 ---
 
-## [第 81 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-81.md)
+## [第 81 期：第 81 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-81.md)
 
 1、[浏览器地址栏的贪吃蛇游戏](https://demian.ferrei.ro/snake)
 
@@ -15673,7 +15673,7 @@ crontab 是 Linux 系统的定时任务执行器。这个在线工具可以可�
 
 ---
 
-## [第 80 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-80.md)
+## [第 80 期：第 80 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-80.md)
 
 1、[git-quick-stats](https://github.com/arzzen/git-quick-stats)
 
@@ -15743,7 +15743,7 @@ Facebook 推出的大型 VR 虚拟游戏。玩家带上 VR 眼镜，在一个虚
 
 ---
 
-## [第 79 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-79.md)
+## [第 79 期：第 79 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-79.md)
 
 1、[Tweet Jobs](https://tweetjobs.dev/)
 
@@ -15797,7 +15797,7 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 ---
 
-## [第 78 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-78.md)
+## [第 78 期：第 78 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-78.md)
 
 1、[scoper](https://github.com/RameshAditya/scoper)
 
@@ -15853,7 +15853,7 @@ LaTeX 搜索引擎。你给出英语描述，它返回符号的写法。比如�
 
 ---
 
-## [第 77 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-77.md)
+## [第 77 期：第 77 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-77.md)
 
 1、[Postwoman](https://github.com/liyasthomas/postwoman)
 
@@ -15909,7 +15909,7 @@ macOS 的桌面 RSS 阅读器，免费软件。
 
 ---
 
-## [第 76 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-76.md)
+## [第 76 期：第 76 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-76.md)
 
 1、[gavatar](https://github.com/viveketic/gavatar)
 
@@ -15967,7 +15967,7 @@ Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提�
 
 ---
 
-## [第 75 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-75.md)
+## [第 75 期：第 75 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-75.md)
 
 1、[chart.xkcd](https://github.com/timqian/chart.xkcd)
 
@@ -16037,7 +16037,7 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 ---
 
-## [第 74 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-74.md)
+## [第 74 期：第 74 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-74.md)
 
 1、[Unison](https://www.cis.upenn.edu/~bcpierce/unison/)
 
@@ -16099,7 +16099,7 @@ Hexo 博客框架的一套样式主题。（@[xrr2016](https://github.com/ruanyf
 
 ---
 
-## [第 73 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-73.md)
+## [第 73 期：第 73 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-73.md)
 
 1、[formik](https://github.com/jaredpalmer/formik)
 
@@ -16157,7 +16157,7 @@ Bash 的日志工具，出错时打印调用堆栈，方便快速定位问题和
 
 ---
 
-## [第 72 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-72.md)
+## [第 72 期：第 72 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-72.md)
 
 1、[milkman](https://github.com/warmuuh/milkman)
 
@@ -16219,7 +16219,7 @@ Git 钩子管理器，可以用在各种项目之中。特点是功能强大，�
 
 ---
 
-## [第 71 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-71.md)
+## [第 71 期：](https://github.com/ruanyf/weekly/blob/master/docs/issue-71.md)
 
 1、 [Writeathon](https://www.writeathon.cn/)
 
@@ -16281,7 +16281,7 @@ Mac 系统的桌面图片上传工具，用于将本地图片上传到图床，�
 
 ---
 
-## [第 70 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-70.md)
+## [第 70 期：第 70 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-70.md)
 
 1、[exa](https://the.exa.website/)
 
@@ -16343,7 +16343,7 @@ GitHub issues 备份工具，只要填入仓库地址就可以下载压缩文件
 
 ---
 
-## [第 69 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-69.md)
+## [第 69 期：第 69 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-69.md)
 
 1、[hostyoself](https://github.com/schollz/hostyoself)
 
@@ -16399,7 +16399,7 @@ macOS 菜单栏系统时钟的替代品，显示月历和时区，免费软件�
 
 ---
 
-## [第 68 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-68.md)
+## [第 68 期：第 68 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-68.md)
 
 1、[hub](https://hub.github.com/)
 
@@ -16461,7 +16461,7 @@ GitHub 官方的命令行客户端。
 
 ---
 
-## [第 67 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-67.md)
+## [第 67 期：第 67 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-67.md)
 
 1、[postmarketos](https://postmarketos.org/)
 
@@ -16519,7 +16519,7 @@ lit-html 是一个极其简单好用的网页模板渲染库，使用 ES6 语法
 
 ---
 
-## [第 66 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-66.md)
+## [第 66 期：第 66 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-66.md)
 
 1、[Never-Blink](https://github.com/ByronHsu/Never-Blink)
 
@@ -16579,7 +16579,7 @@ Chrome 浏览器的插件会对浏览器性能造成影响。这个工具可以�
 
 ---
 
-## [第 65 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-65.md)
+## [第 65 期：周刊开设"谁在招人"的招聘服务](https://github.com/ruanyf/weekly/blob/master/docs/issue-65.md)
 
 1、[Termius](https://termius.com/)
 
@@ -16633,7 +16633,7 @@ ffmpeg 的作者写的 JavaScript 引擎。他等于自己从头实现了一个�
 
 ---
 
-## [第 64 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-64.md)
+## [第 64 期：第 64 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-64.md)
 
 1、[AsciiMath](http://asciimath.org/)
 
@@ -16687,7 +16687,7 @@ Facebook 出品的 Markdown 静态文档网站的建站工具，前端使用 Rea
 
 ---
 
-## [第 63 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-63.md)
+## [第 63 期：第 63 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-63.md)
 
 1、[PaperCSS](https://github.com/papercss/papercss)
 
@@ -16755,7 +16755,7 @@ Chrome 浏览器插件，用在那些没做代码高亮的网站，具有代码�
 
 ---
 
-## [第 62 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-62.md)
+## [第 62 期：第 62 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-62.md)
 
 1、[sitemap.js](https://github.com/ekalinin/sitemap.js)
 
@@ -16811,7 +16811,7 @@ Chrome 浏览器的插件，在新标签页展示中国传统色的层叠波浪�
 
 ---
 
-## [第 61 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-61.md)
+## [第 61 期：第61期](https://github.com/ruanyf/weekly/blob/master/docs/issue-61.md)
 
 1、[faast.js](https://github.com/faastjs/faast.js)
 
@@ -16869,7 +16869,7 @@ GitHub 的微信小程序客户端，代码开源。（@[JackZhouMine](https://g
 
 ---
 
-## [第 48 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-48.md)
+## [第 48 期：每周分享第 48 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-48.md)
 
 1、[github-history](https://github.com/pomber/github-history)
 
@@ -16931,7 +16931,7 @@ IMAP 电子邮件协议可以实时推送邮件，COI 就是基于这一点实�
 
 ---
 
-## [第 47 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-47.md)
+## [第 47 期：每周分享第 47 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-47.md)
 
 1、[Mermaid 在线作图](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
 
@@ -16987,7 +16987,7 @@ Hexo 的开源博客主题，针对大屏进行过优化。（@[dongyuanxin](htt
 
 ---
 
-## [第 46 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-46.md)
+## [第 46 期：每周分享第 46 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-46.md)
 
 1、[revery](https://github.com/revery-ui/revery)
 
@@ -17043,7 +17043,7 @@ Hexo 的开源博客主题，针对大屏进行过优化。（@[dongyuanxin](htt
 
 ---
 
-## [第 45 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-45.md)
+## [第 45 期：每周分享第 45 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-45.md)
 
 1、[FP-Glossary](https://github.com/OlleLinderos/FP-Glossary)
 
@@ -17101,7 +17101,7 @@ Bash 命令的可视化解释工具。遇到复杂的 Bash 命令，可以输入
 
 ---
 
-## [第 44 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-44.md)
+## [第 44 期：每周分享第 44 期（20190222）](https://github.com/ruanyf/weekly/blob/master/docs/issue-44.md)
 
 1、[hexyl](https://github.com/sharkdp/hexyl)
 
@@ -17171,7 +17171,7 @@ Bash 命令的可视化解释工具。遇到复杂的 Bash 命令，可以输入
 
 ---
 
-## [第 43 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-43.md)
+## [第 43 期：每周分享第 43 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-43.md)
 
 1、[trilium](https://github.com/zadam/trilium)
 
@@ -17229,7 +17229,7 @@ nvidia 官方的在线图像修复，自动生成图像缺失的部分。
 
 ---
 
-## [第 42 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-42.md)
+## [第 42 期：每周分享第 42 期（20190201）](https://github.com/ruanyf/weekly/blob/master/docs/issue-42.md)
 
 1、[lsix](https://github.com/hackerb9/lsix)
 
@@ -17277,7 +17277,7 @@ Webpack 的一个封装，目的是简化 Webpack 的配置，让大多数情况
 
 ---
 
-## [第 41 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-41.md)
+## [第 41 期：每周分享第 41 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-41.md)
 
 1、[curl 转换器](https://curl.trillworks.com/)
 
@@ -17333,7 +17333,7 @@ TypeScript 写的内容管理系统，最大特点是使用 GraphQL API。
 
 ---
 
-## [第 40 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-40.md)
+## [第 40 期：每周分享第 40 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-40.md)
 
 1、[asciinema](https://asciinema.org/)
 
@@ -17393,7 +17393,7 @@ TypeScript 写的内容管理系统，最大特点是使用 GraphQL API。
 
 ---
 
-## [第 39 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-39.md)
+## [第 39 期：每周分享第 39 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-39.md)
 
 1、[WBO](https://wbo.openode.io/)
 
@@ -17447,7 +17447,7 @@ Puppeteer 现在不仅封装 Chrome，还开始封装 Firefox 了，API 完全�
 
 ---
 
-## [第 38 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-38.md)
+## [第 38 期：每周分享第 38 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-38.md)
 
 1、 [nnn](https://github.com/jarun/nnn)
 
@@ -17507,7 +17507,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 ---
 
-## [第 37 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-37.md)
+## [第 37 期：每周分享第 37 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-37.md)
 
 1、[construct-ui](https://github.com/vrimar/construct-ui)
 
@@ -17567,7 +17567,7 @@ Git 的版本模型对新手来说，并不是很容易理解。Gitless 试图�
 
 ---
 
-## [第 36 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-36.md)
+## [第 36 期：每周分享第 36 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-36.md)
 
 1、[react-text](https://github.com/franciscop/react-text)
 
@@ -17621,7 +17621,7 @@ Markdown 的 lint 工具，检查编写格式是否规范。（@[hustcc](https:/
 
 ---
 
-## [第 35 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-35.md)
+## [第 35 期：每周分享第 35 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-35.md)
 
 1、[CycleGAN](https://github.com/junyanz/CycleGAN)
 
@@ -17677,7 +17677,7 @@ ISH 通过使用一个 x86 模拟器，在iOS 设备上面模拟 Linux Shell。
 
 ---
 
-## [第 34 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-34.md)
+## [第 34 期：每周分享第 34 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-34.md)
 
 1、[strapdown](https://github.com/arturadib/strapdown)
 
@@ -17727,7 +17727,7 @@ Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主
 
 ---
 
-## [第 33 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-33.md)
+## [第 33 期：每周分享第 33 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-33.md)
 
 1、[DeOldify](https://github.com/jantic/DeOldify)
 
@@ -17789,7 +17789,7 @@ GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交�
 
 ---
 
-## [第 32 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-32.md)
+## [第 32 期：每周分享第 32 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-32.md)
 
 1、 [Mu](https://codewith.mu/)
 
@@ -17833,7 +17833,7 @@ Linux 系统 cd 命令的替代工具，可以记住常用路径，然后只要�
 
 ---
 
-## [第 31 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-31.md)
+## [第 31 期：每周分享第 31 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-31.md)
 
 1、[发送短消息的 App](https://messages.android.com/)
 
@@ -17887,7 +17887,7 @@ JS 的敏感词过滤库，基于 ahocorasick 字符串匹配算法，浏览器�
 
 ---
 
-## [第 30 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-30.md)
+## [第 30 期：每周分享第 30 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-30.md)
 
 1、[WebPerl](https://webperl.zero-g.net/)
 
@@ -17945,7 +17945,7 @@ irondb  是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedD
 
 ---
 
-## [第 29 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-29.md)
+## [第 29 期：每周分享第 29 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-29.md)
 
 1、[Pentax SDK](https://www.ephotozine.com/article/ricoh-releases-sdks-for-pentax-cameras-32298)
 
@@ -17995,7 +17995,7 @@ Access 是一种桌面数据库，本文列出了四种开源替代品。
 
 ---
 
-## [第 28 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-28.md)
+## [第 28 期：每周分享第 28 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-28.md)
 
 1、[markdownlint](https://github.com/DavidAnson/markdownlint)
 
@@ -18037,7 +18037,7 @@ flyermaker 是一个 Java 项目的脚手架工具，支持 SpringBoot 和 Sprin
 
 ---
 
-## [第 27 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-27.md)
+## [第 27 期：每周分享第 27 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-27.md)
 
 1、[remi](https://github.com/dddomodossola/remi)
 
@@ -18085,7 +18085,7 @@ C++ 编写的2048游戏。
 
 ---
 
-## [第 26 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-26.md)
+## [第 26 期：每周分享第 26 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-26.md)
 
 1、[ReactXP](https://microsoft.github.io/reactxp/)
 
@@ -18133,7 +18133,7 @@ Caddy 是一个支持 HTTP/2，自带 HTTPS 功能的跨平台、易于使用的
 
 ---
 
-## [第 25 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-25.md)
+## [第 25 期：每周分享第 25 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-25.md)
 
 1、[ktmm](https://github.com/ao/ktmm)
 
@@ -18181,7 +18181,7 @@ perkeep 是一个开源工具，可以将你的文件同步储存到多个节点
 
 ---
 
-## [第 24 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-24.md)
+## [第 24 期：每周分享第 24 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-24.md)
 
 1、[nodebook](https://github.com/netgusto/nodebook)
 
@@ -18231,7 +18231,7 @@ Mac 的屏保程序，会显示一段文学作品的段落，里面包含了当�
 
 ---
 
-## [第 23 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-23.md)
+## [第 23 期：每周分享第 23 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-23.md)
 
 1、[Anbox](https://github.com/anbox/anbox)
 
@@ -18283,7 +18283,7 @@ Reddit 是美国最大的在线论坛。这个工具每天4次提取主要频道
 
 ---
 
-## [第 22 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-22.md)
+## [第 22 期：每周分享第 22 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-22.md)
 
 1、[25种团队通信工具](https://fleep.io/blog/2018/08/best-slack-alternatives/)
 
@@ -18331,7 +18331,7 @@ Picular 会抓取谷歌的图片搜索结果，提取并显示每张图片的主
 
 ---
 
-## [第 21 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-21.md)
+## [第 21 期：每周分享第 21 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-21.md)
 
 1、[termtosvg](https://www.ostechnix.com/how-to-record-terminal-sessions-as-svg-animations-in-linux/)
 
@@ -18379,7 +18379,7 @@ mobiledoc 是一种数据格式，用于所见即所得编辑器的底层数据�
 
 ---
 
-## [第 20 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-20.md)
+## [第 20 期：每周分享第 20 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-20.md)
 
 1、 [SimilarWeb 插件](https://threetempi.com/my-secret-guide-to-find-free-stats-about-any-tech-company/)
 
@@ -18433,7 +18433,7 @@ Unicode 本身就带有粗体、斜体字符（只限于拉丁字母），这个
 
 ---
 
-## [第 19 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-19.md)
+## [第 19 期：每周分享第 19 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-19.md)
 
 1、[lazygit](https://github.com/jesseduffield/lazygit)
 
@@ -18485,7 +18485,7 @@ JWL 是一种软件许可证，称为公平世界许可证。采用这个许可�
 
 ---
 
-## [第 18 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-18.md)
+## [第 18 期：每周分享第 18 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-18.md)
 
 1、[termgraph](https://github.com/mkaz/termgraph)
 
@@ -18539,7 +18539,7 @@ termgraph 是一个命令行脚本，可以在命令行画出柱状图。
 
 ---
 
-## [第 17 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-17.md)
+## [第 17 期：每周分享第 17 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-17.md)
 
 1、[nouns](https://getnous.app/)
 
@@ -18591,7 +18591,7 @@ Git 的合并算法是三方合并（three-way），有人认为这种算法并�
 
 ---
 
-## [第 16 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-16.md)
+## [第 16 期：每周分享第 16 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-16.md)
 
 1、[微软 Whiteboard](https://techcommunity.microsoft.com/t5/Office-365-Blog/Microsoft-Whiteboard-is-now-generally-available-for-Windows/ba-p/214574)
 
@@ -18643,7 +18643,7 @@ Browsh 是一个基于 Firefox 的命令行脚本，可以在命令行打开网�
 
 ---
 
-## [第 15 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-15.md)
+## [第 15 期：每周分享第 15 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-15.md)
 
 1、[lockbox](https://testpilot.firefox.com/experiments/firefox-lockbox/)
 
@@ -18689,7 +18689,7 @@ BGP 图像比 JPG 图像有更好的压缩比，但是它的解析需要加载�
 
 ---
 
-## [第 14 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-14.md)
+## [第 14 期：每周分享第 14 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-14.md)
 
 1、[vertigo](https://github.com/toldjuuso/vertigo)
 
@@ -18734,7 +18734,7 @@ Stencila 是一套开源的办公套件，只包含文字处理器和电子表�
 
 ---
 
-## [第 13 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-13.md)
+## [第 13 期：每周分享  周刊为什么只谈技术？](https://github.com/ruanyf/weekly/blob/master/docs/issue-13.md)
 
 1、[Skia 图形库](https://skia.org/)
 
@@ -18784,7 +18784,7 @@ Atlassian 公司推出的 React 拖放操作的库。
 
 ---
 
-## [第 12 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-12.md)
+## [第 12 期：每周分享第 12 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-12.md)
 
 1、[letterpad](https://github.com/letterpad/letterpad)
 
@@ -18818,7 +18818,7 @@ Node 语言编写的博客建站工具。
 
 ---
 
-## [第 11 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-11.md)
+## [第 11 期：每周分享第 11 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-11.md)
 
 1、[GitTorrent](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 
@@ -18862,7 +18862,7 @@ Node 语言编写的博客建站工具。
 
 ---
 
-## [第 10 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-10.md)
+## [第 10 期：每周分享第 10 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-10.md)
 
 1、[Reach router](https://reach.tech/router)
 
@@ -18916,7 +18916,7 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 
 ---
 
-## [第 9 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-9.md)
+## [第 9 期：每周分享第 9 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-9.md)
 
 1、[Drawpile](https://drawpile.net/about/)
 
@@ -18950,7 +18950,7 @@ Uber 开源的基于地图的数据可视化框架。
 
 ---
 
-## [第 8 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-8.md)
+## [第 8 期：每周分享第 8 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-8.md)
 
 1、[CalVer](http://calver.org/)
 
@@ -19002,7 +19002,7 @@ Electron 的挑战者越来越多，这个是 .NET 框架包装的 Chrome 浏览
 
 ---
 
-## [第 7 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-7.md)
+## [第 7 期：每周分享第 7 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-7.md)
 
 1、[DocHub](https://github.com/TruthHun/DocHub)
 
@@ -19042,7 +19042,7 @@ Bash 脚本的开源语法检查器。
 
 ---
 
-## [第 6 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-6.md)
+## [第 6 期：每周分享第 6 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-6.md)
 
 1、[Gitea](https://gitea.io/en-us/)
 
@@ -19080,7 +19080,7 @@ Sci-Hub 是最大的免费论文下载网站，几个主要的论文数据库公
 
 ---
 
-## [第 5 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-5.md)
+## [第 5 期：每周分享第 5 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-5.md)
 
 1、[sonarwhal](https://sonarwhal.com)
 
@@ -19121,7 +19121,7 @@ Facebook 推出 Python 的静态类型检查工具，有点像 Flowtype 对于 J
 
 ---
 
-## [第 4 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-4.md)
+## [第 4 期：每周分享第 4 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-4.md)
 
 1、[GitHub Desktop](https://desktop.github.com/)
 
@@ -19161,7 +19161,7 @@ GitHub 的用户主页有一张图，每一天就是一个小格子。你只要�
 
 ---
 
-## [第 3 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-3.md)
+## [第 3 期：每周分享第 3 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-3.md)
 
 1、[谷歌的免费 IP 地址定位服务](https://blog.doit-intl.com/farewell-maxmind-geolocating-requests-with-google-load-balancer-for-free-7938f5adbef0)
 
@@ -19193,7 +19193,7 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 ---
 
-## [第 2 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-2.md)
+## [第 2 期：每周分享第 2 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-2.md)
 
 1、[Mustard UI](https://kylelogue.github.io/mustard-ui/)
 
@@ -19231,7 +19231,7 @@ ReactOS 是一个开源的操作系统，目标是兼容 Windows，能够运行 
 
 ---
 
-## [第 1 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-1.md)
+## [第 1 期：每周分享第 1 期](https://github.com/ruanyf/weekly/blob/master/docs/issue-1.md)
 
 1、[Spectrum](https://github.com/withspectrum/spectrum)
 

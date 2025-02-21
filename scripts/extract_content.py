@@ -29,7 +29,7 @@ class ContentExtractor:
         # 定义各部分的标题
         self.section_titles = {
             'tools': '工具',
-            'ai': 'AI',
+            'ai': ['AI 相关', 'AI 工具'],  # 使用列表存储多个可能的标题
             'resources': '资源'
         }
         
@@ -47,39 +47,68 @@ class ContentExtractor:
     
     def _extract_section(self, content, section_name):
         """提取指定部分的内容"""
-        pattern = f"## {section_name}.*?(?=##|$)"
-        match = re.search(pattern, content, re.DOTALL)
-        if match:
-            section_content = match.group(0)
-            print(f"Found section {section_name}:")
-            print(section_content[:200])  # 打印前200个字符
-            # 移除标题行
-            content_lines = section_content.split('\n')[1:]
-            return '\n'.join(content_lines).strip()
-        return ""
+        section_title = self.section_titles[section_name]
+        
+        # 如果是列表，则尝试匹配多个标题
+        if isinstance(section_title, list):
+            for title in section_title:
+                pattern = f"## {title}.*?(?=##|$)"
+                match = re.search(pattern, content, re.DOTALL)
+                if match:
+                    section_content = match.group(0)
+                    print(f"Found section {title}:")
+                    print(section_content[:200])  # 打印前200个字符
+                    # 移除标题行
+                    content_lines = section_content.split('\n')[1:]
+                    return '\n'.join(content_lines).strip()
+            return ""
+        else:
+            # 原有的单一标题匹配逻辑
+            pattern = f"## {section_title}.*?(?=##|$)"
+            match = re.search(pattern, content, re.DOTALL)
+            if match:
+                section_content = match.group(0)
+                print(f"Found section {section_name}:")
+                print(section_content[:200])  # 打印前200个字符
+                # 移除标题行
+                content_lines = section_content.split('\n')[1:]
+                return '\n'.join(content_lines).strip()
+            return ""
     
-    def _extract_issue_number(self, filename):
-        """从文件名中提取期号"""
-        match = re.search(r'issue-(\d+)', filename)
-        return int(match.group(1)) if match else 0
+    def _extract_issue_info(self, filename, content):
+        """提取期号和标题"""
+        # 从文件名提取期号
+        number_match = re.search(r'issue-(\d+)', filename)
+        issue_number = int(number_match.group(1)) if number_match else 0
+        
+        # 从内容中提取标题
+        title_match = re.search(r'# (.*?)\n', content)
+        title = title_match.group(1) if title_match else ''
+        
+        # 移除标题中的期号相关文字和多余的冒号
+        title = re.sub(r'^(第\s*\d+\s*期：?)|(（第\s*\d+\s*期）)|(科技爱好者周刊)|：|\s+', ' ', title)
+        title = title.strip()
+        
+        return issue_number, title
     
     def process_file(self, file_path):
         """处理单个文件"""
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
             
-        # 提取各个部分的内容
-        issue_number = self._extract_issue_number(file_path.name)
-        print(f"\nProcessing issue {issue_number}...")
+        # 提取期号和标题
+        issue_number, title = self._extract_issue_info(file_path.name, content)
+        print(f"\nProcessing issue {issue_number}: {title}")
         
         # 处理每个部分
         for section_key, section_title in self.section_titles.items():
-            section_content = self._extract_section(content, section_title)
+            section_content = self._extract_section(content, section_key)
             if section_content:
-                print(f"Found content for {section_title}")
+                print(f"Found content for {section_key}")
                 self.content_store[section_key].append({
                     'content': section_content,
                     'issue': issue_number,
+                    'title': title,
                     'filename': file_path.name
                 })
     
@@ -91,11 +120,11 @@ class ContentExtractor:
             
             output_file = self.data_dir / f"{section_key}.md"
             with open(output_file, 'w', encoding='utf-8') as f:
-                # 直接写入内容，不添加标题
                 for item in sorted_items:
-                    # 添加带链接的标题
+                    # 添加带链接的标题，包含期号和文章标题
                     issue_link = f"https://github.com/ruanyf/weekly/blob/master/docs/issue-{item['issue']}.md"
-                    f.write(f"## [第 {item['issue']} 期]({issue_link})\n\n")
+                    f.write(f"## [第 {item['issue']} 期：{item['title']}]({issue_link})\n\n")
+                    
                     f.write(f"{item['content']}\n\n")
                     f.write("---\n\n")
     
@@ -103,7 +132,7 @@ class ContentExtractor:
         """运行内容提取程序"""
         # 获取所有需要处理的文件，按期号倒序排列
         md_files = sorted(self.docs_dir.glob('issue-*.md'), 
-                         key=lambda x: self._extract_issue_number(x.name),
+                         key=lambda x: self._extract_issue_info(x.name, x.read_text())[0],
                          reverse=True)
         
         print(f"Found {len(md_files)} files to process")
