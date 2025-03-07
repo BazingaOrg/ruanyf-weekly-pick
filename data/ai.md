@@ -1,3 +1,37 @@
+## [第 340 期：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md)
+
+1、[olmOCR](https://github.com/allenai/olmocr)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030101.webp)
+
+一个使用 AI 模型进行文字识别（OCR）的 Python 工具。
+
+2、[Probly](https://github.com/PragmaticMachineLearning/probly)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030103.webp)
+
+一个基于 AI 的电子表格软件，可以在浏览器中对表格运行 Python 代码。
+
+3、[Hacker News 每日播报](https://github.com/ccbikai/hacker-news)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030602.webp)
+
+每天自动抓取 Hacker News 热门文章，通过 AI 生成中文播客。（[@Y024](https://github.com/ruanyf/weekly/issues/6200) 投稿）
+
+4、[语析](https://github.com/xerrors/Yuxi-Know)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030606.webp)
+
+基于大模型，进行知识库管理与生成知识图谱的工具。（[@xerrors](https://github.com/ruanyf/weekly/issues/6215) 投稿）
+
+5、[DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030608.webp)
+
+西北工业大学 ASLP 实验室开发的一个 AI 音乐生成模型。（[@JoeDeanx](https://github.com/ruanyf/weekly/issues/6218) 投稿）
+
+---
+
 ## [第 338 期：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md)
 
 1、[DeepSRT](https://chromewebstore.google.com/detail/deepsrt-experience-the-fa/mdaaadlpcanoofcoeanghbmpbdbhladd)
