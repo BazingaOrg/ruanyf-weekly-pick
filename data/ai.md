@@ -1,3 +1,35 @@
+## [第 341 期：低代码编程，恐怕不会成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-341.md)
+
+1、[Mistral OCR](https://mistral.ai/news/mistral-ocr)
+
+上周，Mistral AI 发布了号称史上最强的 OCR 识别工具，具有公式和表格的识别能力，参见[介绍文章](https://finance.sina.com.cn/tech/roll/2025-03-07/doc-inenuzhm5927298.shtml)。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031306.webp)
+
+网友 [monsoonw](https://github.com/ruanyf/weekly/issues/6248) 做了一个免费的[试用网站](https://mistralocr.net/)。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031004.webp)
+
+著名程序员 Simon Willison 开源了[一个 Python 脚本](https://github.com/simonw/tools/blob/main/python/mistral_ocr.py)，演示了怎样调用 Mistral 的 API 进行文字识别，参考[他的文章](https://simonwillison.net/2025/Mar/7/mistral-ocr/)。
+
+2、[Free QWQ](https://qwq.aigpu.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031107.webp)
+
+免费、无限制的算力平台，为开发者提供 QwQ 32B 大语言模型 API。（[@nexmoe](https://github.com/ruanyf/weekly/issues/6260) 投稿）
+
+3、[Code-Review-LLM-Gitlab](https://github.com/mimo-x/Code-Review-GPT-Gitlab)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031108.webp)
+
+使用大模型对 GitLab 项目进行 Code review 的工具。（[@mimo-x](https://github.com/ruanyf/weekly/issues/6261) 投稿）
+
+4、[人话翻译器](https://github.com/DemoJ/HumanizeText)
+
+一个 Chrome 插件，通过 AI 将难懂的中文翻译成好懂的中文。（[@DemoJ](https://github.com/ruanyf/weekly/issues/6277) 投稿）
+
+---
+
 ## [第 340 期：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md)
 
 1、[olmOCR](https://github.com/allenai/olmocr)
