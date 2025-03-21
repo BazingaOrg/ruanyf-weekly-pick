@@ -1,3 +1,43 @@
+## [第 342 期：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md)
+
+1、[SVG 秀](https://www.svgshow.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031501.webp)
+
+根据文字描述，生成 SVG 图片，并可以编辑，代码开源（[前端](https://github.com/chaseFunny/svg-frontend)和[后端](https://github.com/chaseFunny/svg-backend)）。（[@chaseFunny](https://github.com/ruanyf/weekly/issues/6293) 投稿）
+
+2、[MarkPDFDown](https://github.com/jorben/markpdfdown)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031704.webp)
+
+基于大模型的 PDF 转 Markdown 工具，实现文档结构化转换。（[@jorben](https://github.com/ruanyf/weekly/issues/6296) 投稿）
+
+3、[We0](https://we0.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031906.webp)
+
+通过 AI 生成应用程序，支持后端生成和前端生成，还可以 Sketch/Figma 设计稿1:1还原，[代码开源](https://github.com/we0-dev/we0)。（[@Mashiro2000](https://github.com/ruanyf/weekly/issues/6309) 投稿）
+
+4、[Githubhunt](https://githubhunt.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031705.webp)
+
+使用自然语言，搜索 GitHub 仓库。（[@xgzlucario](https://github.com/ruanyf/weekly/issues/6300) 投稿）
+
+5、[Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032002.webp)
+
+开源的 AI 提示词优化工具。（[@linshenkx](https://github.com/ruanyf/weekly/issues/6337) 投稿）
+
+6、[Bob plugin MTranServer](https://github.com/gray0128/bob-plugin-MTranServer)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031908.webp)
+
+[Bob](https://bobtranslate.com/)（macOS 平台的翻译软件）的一个插件，引入本地翻译服务器 [MTranServer](https://github.com/xxnuo/MTranServer)。（[@gray0128](https://github.com/ruanyf/weekly/issues/6311) 投稿）
+
+---
+
 ## [第 341 期：低代码编程，恐怕不会成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-341.md)
 
 1、[Mistral OCR](https://mistral.ai/news/mistral-ocr)
