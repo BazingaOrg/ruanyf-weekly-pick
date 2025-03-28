@@ -1,3 +1,41 @@
+## [第 343 期：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md)
+
+1、[DNS 速度测试](https://dnsspeedtest.online/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032606.webp)
+
+这个网站测试从你的计算机到世界主要公共 DNS 服务器的速度。
+
+另有一个类似的命令行工具 [dnspy](https://github.com/xxnuo/dns-benchmark)。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6368) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032613.webp)
+
+2、[Orbit](https://www.bbc.co.uk/orbitmusic)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032601.webp)
+
+该网站提供一种可视化的方式，发现你喜欢的新音乐。
+
+3、[Top Hacker News](https://www.tophn.co/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032617.webp)
+
+该网站展示“黑客新闻”实时的热门文章，有插图和内容总结。（[@heyppen](https://github.com/ruanyf/weekly/issues/6384) 投稿）
+
+4、[MusicMint](https://www.musicmint.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032204.webp)
+
+一个 AI 音乐网站。（[@250465043](https://github.com/ruanyf/weekly/issues/6361) 投稿）
+
+5、[旅行插头顾问](https://remit.ee/tools/check-plug-travel-adapter/)（Travel Plug Advisor）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032203.webp)
+
+该网站查询世界各地的插头类型和电压。（[@imowen](https://github.com/ruanyf/weekly/issues/6351) 投稿）
+
+---
+
 ## [第 342 期：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md)
 
 1、[Maple Mono](https://github.com/subframe7536/maple-font)

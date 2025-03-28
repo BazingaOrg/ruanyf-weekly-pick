@@ -1,3 +1,29 @@
+## [第 343 期：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md)
+
+1、[Web Design AI Agent](https://github.com/mggger/WebCraft)
+
+开源的 AI 应用，根据文字描述和图片生成网页，使用 Claude AI 模型，部署在 Cloudflare worker。（[@mggger](https://github.com/ruanyf/weekly/issues/6371) 投稿）
+
+2、[AigcPanel](https://github.com/modstart-lib/aigcpanel)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032708.webp)
+
+开源的 AI 数字人生成工具。（[@modstart](https://github.com/ruanyf/weekly/issues/6407) 投稿）
+
+3、[EmojiMyFace](https://emojimyface.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032710.webp)
+
+免费的 AI 挡脸工具，将脸部替换成 Emoji 符号。（[@Takea-nap](https://github.com/ruanyf/weekly/issues/6410) 投稿）
+
+4、[aisubtranslate.top](https://aisubtranslate.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032704.webp)
+
+AI 模型翻译字幕文件的免费网站。（[@LetheTK](https://github.com/ruanyf/weekly/issues/6397) 投稿）
+
+---
+
 ## [第 342 期：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md)
 
 1、[SVG 秀](https://www.svgshow.cn)

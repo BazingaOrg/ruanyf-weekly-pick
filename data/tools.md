@@ -1,3 +1,95 @@
+## [第 343 期：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md)
+
+1、[CSS FlexCode](https://github.com/xutao-o/css-flex-code)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032202.webp)
+
+开源的 VS Code 插件，通过图标生成 flex、grid 布局的 CSS 代码。（[@xutao-o](https://github.com/ruanyf/weekly/issues/6347) 投稿）
+
+2、[StreamCap](https://github.com/ihmily/StreamCap)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032703.webp)
+
+一个桌面应用（支持 Windows 和 Mac），基于 FFmpeg 进行直播录制，覆盖40+国内外主流直播平台。（[@ihmily](https://github.com/ruanyf/weekly/issues/6393) 投稿）
+
+3、[Bilibili History Analyzer](https://github.com/2977094657/BilibiliHistoryFetcher)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032301.webp)
+
+B 站历史观看记录管理工具，可以保存观看记录，支持视频下载、数据分析、AI 摘要等功能，采用 Python + SQLite 开发，分为前端和后端。（[@2977094657](https://github.com/ruanyf/weekly/issues/6366) 投稿）
+
+4、[GoRead](https://github.com/Ray-D-Song/goread)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032614.webp)
+
+一个用 Go 语言编写的终端里面的 EPUB 阅读器。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/6369) 投稿）
+
+5、[GateShift](https://github.com/ourines/GateShift)
+
+一个 Go 语言写的命令行工具，用于一行命令切换网关，适合同时有 OpenWrt 路由和默认路由的环境。（[@ourines](https://github.com/ruanyf/weekly/issues/6353) 投稿）
+
+6、[Drawnix](https://github.com/plait-board/drawnix)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032616.webp)
+
+开源的在线白板工具，集成了思维导图、流程图、画笔。（[@pubuzhixing8](https://github.com/ruanyf/weekly/issues/6379) 投稿）
+
+7、[小米笔记的 Obsidian 插件](https://github.com/emac/obsidian-minote-plugin)
+
+它将小米云服务里面的小米笔记，转换为 Markdown 格式保存到 Obsidian 文件夹。（[@emac](https://github.com/ruanyf/weekly/issues/6355) 投稿）
+
+8、[wxlogin](https://github.com/liyaodev/wxlogin)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032615.webp)
+
+一个基于 Next.js 的开源应用，基于微信公众号的网站登录，用户通过公众号获取验证码，从而在网页端登录。（[@liyaodev](https://github.com/ruanyf/weekly/issues/6372) 投稿）
+
+9、[Docxy](https://github.com/harrisonwang/docxy)
+
+开源的 Docker Hub 镜像代理服务，可以通过它拉取容器镜像。（[@harrisonwang](https://github.com/ruanyf/weekly/issues/6395) 投稿）
+
+10、[Bondma](https://github.com/HeroIsUseless/bondma)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032618.webp)
+
+一个开源的多语言翻译管理平台，提供直观的 Web 界面。（[@HeroIsUseless](https://github.com/ruanyf/weekly/issues/6389) 投稿）
+
+11、[DeepPDF](https://deeppdf.ai/pdf-translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032705.webp)
+
+免费的 PDF 文件翻译网站，比如英文 PDF 翻译成中文，保留排版不变。（[@icaohongyuan](https://github.com/ruanyf/weekly/issues/6398) 投稿）
+
+12、[RSSPod](https://rsspod.pro)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032706.webp)
+
+收听、订阅播客的网站。（[@Jaksay](https://github.com/ruanyf/weekly/issues/6399) 投稿）
+
+13、[Supa Simple Socket](https://github.com/JustinGastby/supa-simple-socket)
+
+网友投稿的 WebSocket 的 JS 客户端库，支持心跳机制、断点重连、事件订阅和文件传输。（[@JustinGastby](https://github.com/ruanyf/weekly/issues/6406) 投稿）
+
+14、[Inscribed.app](https://inscribed.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032707.webp)
+
+一款在线工具，基于幻灯片制作创意草图和动画。 （[@chunrapeepat](https://github.com/ruanyf/weekly/issues/6388) 投稿）
+
+15、[LinkAndroid](https://github.com/modstart-lib/linkandroid)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032709.webp)
+
+开源的手机连接助手，方便连接 Android 和电脑。（[@modstart](https://github.com/ruanyf/weekly/issues/6408) 投稿）
+
+16、[Teleprompter.today](https://www.teleprompter.today/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032711.webp)
+
+一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。（[@s87343472](https://github.com/ruanyf/weekly/issues/6412) 投稿）
+
+---
+
 ## [第 342 期：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md)
 
 1、[daylight](https://github.com/jbreckmckye/daylight)
