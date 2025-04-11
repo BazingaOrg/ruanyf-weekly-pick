@@ -1,3 +1,83 @@
+## [第 344 期：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md)
+
+1、[NixVis](https://github.com/BeyondXinXin/nixvis)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032917.webp)
+
+开源的轻量级 Nginx 日志分析工具，自带 Web UI，使用 Go 语言开发。（[@BeyondXinXin](https://github.com/ruanyf/weekly/issues/6414) 投稿）
+
+2、[throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py)
+
+一个 Python 库，用来对函数进行限流，提供各种限流算法。（[@ZhuoZhuoCrayon](https://github.com/ruanyf/weekly/issues/6429) 投稿）
+
+3、[pdf-craft](https://github.com/oomol-lab/pdf-craft)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025033103.webp)
+
+命令行 Python 工具，用来将扫描的 PDF 文件转为 Markdown 和 EPUB，并通过 AI 进行 OCR。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/6442) 投稿）
+
+4、[IOE](https://github.com/zhtyyx/ioe)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040103.webp)
+
+一个开源的库存管理系统，使用 Python 语言。（[@zhtyyx](https://github.com/ruanyf/weekly/issues/6445) 投稿）
+
+5、[DNS-Splitter](https://github.com/mycoco/DNS-Splitter)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040104.webp)
+
+一个浏览器插件，可以根据域名或 IP 地址，实现 DNS 分流。（[@mycoco](https://github.com/ruanyf/weekly/issues/6446) 投稿）
+
+6、[TransferFiles](https://github.com/CoderLim/transfer-files)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040701.webp)
+
+开源的浏览器点对点文件共享工具，无需安装软件和服务器，直接在设备间传输文件和文本消息。（[@CoderLim](https://github.com/ruanyf/weekly/issues/6477) 投稿）
+
+7、[Melody Canvas](https://github.com/RylanBot/melody-canvas)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040801.webp)
+
+一个开源网站，将音频可视化，可以导出视频。（[@RylanBot](https://github.com/ruanyf/weekly/issues/6535) 投稿）
+
+8、[EasyVoice](https://github.com/cosin2077/easyVoice)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040702.webp)
+
+开源的文本转语音工具，可以[在线体验](https://easyvoice.ioplus.tech/)。（[@cosin2077](https://github.com/ruanyf/weekly/issues/6524) 投稿）
+
+9、[QuickGo](https://github.com/Dolov/chrome-QuickGo)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040410.webp)
+
+很多网站会将外链导向一个中间页面，从那里跳转打开。这个开源的 Chrome 浏览器插件，可以省掉这个步骤，自动打开目标页面，支持自定义规则。（[@Dolov](https://github.com/ruanyf/weekly/issues/6465) 投稿）
+
+10、[wukong-minimap](https://github.com/jaskang/wukong-minimap)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040106.webp)
+
+游戏《黑神话：悟空》没有提供地图，这个开源工具在游戏的左上角加上实时地图。（[@jaskang](https://github.com/ruanyf/weekly/issues/6447) 投稿）
+
+11、[Subtitle Translator](https://github.com/rockbenben/subtitle-translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040107.webp)
+
+一个开源的字幕翻译工具，提供多种翻译接口，可以[在线体验](https://tools.newzone.top/zh/subtitle-translator)。（[@rockbenben](https://github.com/ruanyf/weekly/issues/6450) 投稿）
+
+12、[Path Motion](https://github.com/YYsuni/path-motion)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040108.webp)
+
+SVG 的路径动画开发工具，可以[在线体验](https://path-motion.yysuni.com/canvas)。（[@YYsuni](https://github.com/ruanyf/weekly/issues/6451) 投稿）
+
+13、[Retypeset](https://github.com/radishzzz/astro-theme-retypeset)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040507.webp)
+
+读者投稿的一款简约的 Astro 博客主题。（[@radishzzz](https://github.com/ruanyf/weekly/issues/6470) 投稿）
+
+---
+
 ## [第 343 期：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md)
 
 1、[CSS FlexCode](https://github.com/xutao-o/css-flex-code)

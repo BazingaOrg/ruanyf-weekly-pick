@@ -1,3 +1,39 @@
+## [第 344 期：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md)
+
+1、[Nanobrowser](https://github.com/nanobrowser/nanobrowser)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040308.webp)
+
+一个开源的 Chrome 插件，基于 AI 大模型，使用自然语言操纵浏览器，可以看作 OpenAI Operator 的替代品。（[@chandlerq](https://github.com/ruanyf/weekly/issues/6461) 投稿）
+
+类似的工具还有 [Browser use](https://github.com/browser-use/browser-use)，它是一个 Python 库，通过 AI 操作无头浏览器 Playwright，完成 UI 自动化。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030618.webp)
+
+2、[CMDLLM](https://github.com/yexia553/cmdllm)
+
+一个开源工具，可以为任何命令行工具引入大模型，比如在 Docker 命令行里面，用自然语言进行操作 Docker。（[@yexia553](https://github.com/ruanyf/weekly/issues/6460) 投稿）
+
+3、[Query GPT](https://github.com/zhangchenchen/query_gpt)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040508.webp)
+
+一个开源应用，通过 AI 模型，将自然语言转成 SQL 语言。（[@zhangchenchen](https://github.com/ruanyf/weekly/issues/6472) 投稿）
+
+4、[QwQ AI](https://qwq32.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040703.webp)
+
+一个在网页界面，聚合免费 AI 模型的网站。（[@sing1ee](https://github.com/ruanyf/weekly/issues/6527) 投稿）
+
+5、[MCPFlow](https://mcpflow.io)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040307.webp)
+
+MCP 的一个目录站。（[@mcpflow](https://github.com/ruanyf/weekly/issues/6459) 投稿）
+
+---
+
 ## [第 343 期：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md)
 
 1、[Web Design AI Agent](https://github.com/mggger/WebCraft)

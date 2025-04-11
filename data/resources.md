@@ -1,3 +1,25 @@
+## [第 344 期：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md)
+
+1、[墨西哥配色](https://seis.pointlessprojects.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040301.webp)
+
+这个网站提供各种基于墨西哥街景的配色方案。
+
+2、[TV Garden](https://tv.garden)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040303.webp)
+
+这个网站提供世界各地的网上电视台。
+
+3、[404s](https://www.404s.design)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041001.webp)
+
+这个网站收集各种 404 页面。
+
+---
+
 ## [第 343 期：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md)
 
 1、[DNS 速度测试](https://dnsspeedtest.online/)
