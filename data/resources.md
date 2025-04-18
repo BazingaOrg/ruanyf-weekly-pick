@@ -1,3 +1,25 @@
+## [第 345 期：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md)
+
+1、[Flight Track in 3D Earth](https://flight.is26.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041502.webp)
+
+在 3D 地球仪上，显示某个航班的飞行路线。（[@foru17](https://github.com/ruanyf/weekly/issues/6583) 投稿）
+
+2、[欧洲夜班火车地图](https://back-on-track.eu/night-train-map/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110910.webp)
+
+这个网页的设计制作，让人过目难忘，可以借鉴。点击线路，会有详细信息的弹窗。
+
+1、[市场结构入门](https://primer.prooftrading.com/)（Market Structure Primer）
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011805.webp)
+
+一本英文电子书，向新手介绍美国证券市场的结构，如果想参与美股，可以读读。
+
+---
+
 ## [第 344 期：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md)
 
 1、[墨西哥配色](https://seis.pointlessprojects.com)

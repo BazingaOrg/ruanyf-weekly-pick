@@ -1,3 +1,25 @@
+## [第 345 期：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md)
+
+1、[PureChat](https://github.com/Hyk260/PureChat)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041101.webp)
+
+开源的 AI 聊天应用，可以接入 OpenAI、Ollama、DeepSeek 等大模型，基于 Vue3 和 Vite5 开发。（[@Hyk260](https://github.com/ruanyf/weekly/issues/6567) 投稿）
+
+2、[Vanna](https://github.com/vanna-ai/vanna)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041103.webp)
+
+一个开源的数据库分析 AI，用自然语言向数据库询问，它会自己生成 SQL，并给出运行结果。（[@904192063](https://github.com/ruanyf/weekly/issues/6573) 投稿）
+
+3、[AI 视频图文创作助手](https://github.com/hanshuaikang/AI-Media2Doc)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041503.webp)
+
+将任意视频/音频，转化为各种风格的文章，可在本地部署。（[@hanshuaikang](https://github.com/ruanyf/weekly/issues/6584) 投稿）
+
+---
+
 ## [第 344 期：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md)
 
 1、[Nanobrowser](https://github.com/nanobrowser/nanobrowser)

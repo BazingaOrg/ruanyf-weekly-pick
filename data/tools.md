@@ -1,3 +1,65 @@
+## [第 345 期：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md)
+
+1、[yabs.sh](https://github.com/masonr/yet-another-bench-script)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082701.webp)
+
+一个用来测试服务器性能的 Bash 脚本，参考[这篇教程](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/)。
+
+2、[Pākiki Proxy](https://pakikiproxy.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102801.webp)
+
+一个跨平台的桌面应用，用来拦截本机的 HTTPS 和 Websocket 通信，进行查看和编辑。
+
+3、[Giant Log Viewer](https://github.com/sunny-chung/giant-log-viewer)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041602.webp)
+
+一个跨平台的桌面软件，轻松打开和查看极大体积的文件（可以到 TB 级）。
+
+4、[OpenAPI DevTools](https://github.com/AndrewWalsh/openapi-devtools)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110209.webp)
+
+一个 Chrome 插件，可根据网络请求实时生成 OpenAPI 规范的 API 描述。
+
+5、[Online 3D Viewer](https://3dviewer.net)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110520.webp)
+
+一个开源的在线 3D 文件浏览器，支持多种文件格式。
+
+6、[Tirreno](https://github.com/TirrenoTechnologies/tirreno)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010213.webp)
+
+开源的访问者分析系统，基于 PHP。
+
+7、[EaseVoice Trainer](https://github.com/megaease/easevoice-trainer)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041102.webp)
+
+一个本地的声音克隆软件。（[@xxx7xxxx](https://github.com/ruanyf/weekly/issues/6569) 投稿）
+
+8、[Lexe](https://github.com/Ray-D-Song/lexe)
+
+Node.js 应用打包成单个可执行文件，基于轻量级 JS 运行时 LLRT，打包体积小。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/6597) 投稿）
+
+9、[Treex](https://github.com/shiquda/treex)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041504.webp)
+
+开源的命令行工具，用来输出目录的树状结构，有多种输出格式和过滤选项。（[@shiquda](https://github.com/ruanyf/weekly/issues/6591) 投稿）
+
+10、[py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041701.webp)
+
+一个使用 Python 实现的小智语音助手，支持语音交互、物联网设备控制、联网音乐播放等功能，无需专用硬件。（[@huangjunsen0406](https://github.com/ruanyf/weekly/issues/6643) 投稿）
+
+---
+
 ## [第 344 期：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md)
 
 1、[NixVis](https://github.com/BeyondXinXin/nixvis)
