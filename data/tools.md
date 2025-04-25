@@ -1,3 +1,69 @@
+## [第 346 期：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md)
+
+1、[Open Props UI](https://open-props-ui.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011605.webp)
+
+一个 CSS 组件库，使用最新的 CSS 规范，也就是说，不考虑兼容老旧浏览器。
+
+2、[ts-blank-space](https://github.com/bloomberg/ts-blank-space)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092811.webp)
+
+一个从 TypeScript 脚本剥离类型代码的工具，也就是将 TS 脚本转成 JS 脚本，但是不进行类型检查。
+
+3、[Better Auth](https://github.com/better-auth/better-auth)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092901.webp)
+
+一个 TypeScript 的用户身份认证库，功能全面，密码登录、双因素认证、外部身份提供商等都支持。
+
+4、[Browspilot](https://browspilot.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070505.webp)
+
+Chrome 浏览器插件，自动保存所有浏览过的网页，提供浏览历史的全文搜索。
+
+5、[to-unocss](https://to-unocss.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042401.webp)
+
+这个网页工具将 CSS 代码转成 unoCSS 或者 [TailwindCSS](https://to-tailwindcss.netlify.app/) 的写法。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/6726) 投稿）
+
+6、[NoteGen](https://github.com/codexu/note-gen)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042002.webp)
+
+跨平台的 Markdown 笔记软件，支持接入 AI 模型。（[@codexu](https://github.com/ruanyf/weekly/issues/6645) 投稿）
+
+7、[speed-github](https://github.com/jvxiao/speed-github)
+
+一个修改 hosts 文件，加快 GitHub 访问速度的 Python 脚本。（[@jvxiao](https://github.com/ruanyf/weekly/issues/6655) 投稿）
+
+这里还有一个 [Cursor](https://cursor-host.aolifu.org/) 的 hosts 文件生成器。（[@Oliverwqcwrw](https://github.com/ruanyf/weekly/issues/6718) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042308.webp)
+
+8、[旅游翻译器](https://besttraveltranslator.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042305.webp)
+
+网友做的旅行翻译网站，支持对话翻译和拍照翻译，[代码开源](https://github.com/traveltranslator1/traveltranslator1)。（[@traveltranslator1](https://github.com/ruanyf/weekly/issues/6719) 投稿）
+
+9、[Shui](https://github.com/rock-zhang/Shui)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042306.webp)
+
+开源的桌面软件，定时提醒喝水。（[@rock-zhang](https://github.com/ruanyf/weekly/issues/6704) 投稿）
+
+10、[SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042307.webp)
+
+基于 Vue + Vite 的网站管理后台模版。（[@WANG-Fan0912](https://github.com/ruanyf/weekly/issues/6705) 投稿）
+
+---
+
 ## [第 345 期：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md)
 
 1、[yabs.sh](https://github.com/masonr/yet-another-bench-script)

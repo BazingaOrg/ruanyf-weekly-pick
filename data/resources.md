@@ -1,3 +1,25 @@
+## [第 346 期：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md)
+
+1、[全球地铁线路图](https://www.metrolinehub.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042309.webp)
+
+这个网站收集了全球各大城市的地铁地图。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/6721) 投稿）
+
+2、[如是我闻](https://rushiwowen.co)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042004.webp)
+
+佛经阅读平台，带有 AI 翻译和问答。（[@bolechen](https://github.com/ruanyf/weekly/issues/6656) 投稿）
+
+3、[They see your photos](https://theyseeyourphotos.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121909.webp)
+
+该网站对用户上传的照片给出详尽描述，从而可以发现照片泄漏了多少信息。
+
+---
+
 ## [第 345 期：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md)
 
 1、[Flight Track in 3D Earth](https://flight.is26.com/)

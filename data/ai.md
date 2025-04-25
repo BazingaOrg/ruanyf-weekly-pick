@@ -1,3 +1,29 @@
+## [第 346 期：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md)
+
+1、[chatlog](https://github.com/sjzar/chatlog)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042001.webp)
+
+用 AI 处理微信本地聊天记录的工具。（[@sjzar](https://github.com/ruanyf/weekly/issues/6653) 投稿）
+
+2、[HowToCook-MCP Server](https://github.com/worryzyy/HowToCook-mcp)
+
+一个 MCP 服务器，提供中文菜谱、餐食规划。（[@worryzyy](https://github.com/ruanyf/weekly/issues/6714) 投稿）
+
+3、[Midscene.js](https://midscenejs.com/zh/blog-support-android-automation.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042310.webp)
+
+字节推出的 JS 工具，最新功能是通过 AI 和 adb，完成安卓手机自动化。它早先已经可以浏览器自动化。（[@yuyutaotao](https://github.com/ruanyf/weekly/issues/6725) 投稿）
+
+4、[MCP Gateway](https://github.com/mcp-ecosystem/mcp-gateway)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042403.webp)
+
+一个 Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动任何代码。（[@iFurySt](https://github.com/ruanyf/weekly/issues/6730) 投稿）
+
+---
+
 ## [第 345 期：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md)
 
 1、[PureChat](https://github.com/Hyk260/PureChat)
