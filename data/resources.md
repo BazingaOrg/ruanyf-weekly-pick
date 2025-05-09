@@ -1,3 +1,25 @@
+## [第 347 期：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md)
+
+1、[素材 SoSo](https://clipso.agilestudio.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042808.webp)
+
+免版权的图片和视频素材搜索引擎，支持语义搜索。（[@YeDaxia](https://github.com/ruanyf/weekly/issues/6757) 投稿）
+
+2、[FeedMe](https://feedme.icu)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042807.webp)
+
+提供多个信息源最新内容的 AI 摘要，[代码开源](https://github.com/Seanium/FeedMe)。（[@Seanium](https://github.com/ruanyf/weekly/issues/6756) 投稿）
+
+3、[吉卜力电影的高清图](https://www.ghibli.jp/works/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025043004.webp)
+
+吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
+
+---
+
 ## [第 346 期：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md)
 
 1、[全球地铁线路图](https://www.metrolinehub.com/zh)
