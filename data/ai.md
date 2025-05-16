@@ -1,3 +1,23 @@
+## [第 348 期：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md)
+
+1、[MathModelAgent](https://github.com/jihe520/MathModelAgent)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051204.webp)
+
+开源的 AI 应用，自动完成数学建模，生成一份完整的论文。（[@jihe520](https://github.com/ruanyf/weekly/issues/6825) 投稿）
+
+2、[BiliFilter](https://github.com/ddddng/BiliFilter/)
+
+基于本地大模型的 Bilibili 弹幕过滤器，对弹幕分类过滤。（[@ddddng](https://github.com/ruanyf/weekly/issues/6833) 投稿）
+
+3、[AI 语音克隆](https://aivoicecloning.io)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051501.webp)
+
+免费的语音克隆工具，3 秒录音克隆人声。（[@xiaodaidai0701](https://github.com/ruanyf/weekly/issues/6850) 投稿）
+
+---
+
 ## [第 346 期：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md)
 
 1、[chatlog](https://github.com/sjzar/chatlog)
