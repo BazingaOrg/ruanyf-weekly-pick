@@ -1,3 +1,19 @@
+## [第 349 期：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md)
+
+1、[aTrain](https://github.com/JuergenFleiss/aTrain)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051802.webp)
+
+一个跨平台、图形界面的自动语音识别工具，基于 Whisper 模型，支持识别50多种语言，参见[介绍文章](https://www.xda-developers.com/i-switched-from-otter-to-this-self-hosted-audio-transcription-app/)。
+
+2、[AI Image Editor](https://aiimageeditor.me/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051803.webp)
+
+在线的免费图像处理工具，提供多种 AI 功能，比如图片增强、去除水印、风格转换等十几种。（[@worminone](https://github.com/ruanyf/weekly/issues/6883) 投稿）
+
+---
+
 ## [第 348 期：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md)
 
 1、[MathModelAgent](https://github.com/jihe520/MathModelAgent)
