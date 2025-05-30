@@ -1,3 +1,31 @@
+## [第 350 期：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md)
+
+1、[Smart Mermaid](https://github.com/liujuntao123/smart-mermaid)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052406.webp)
+
+将文本转为 Mermaid 格式的可视化图表，省去手动编写 Mermaid 代码。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/6918) 投稿）
+
+2、[Folda-Scan](https://github.com/oldjs/web-code-agent)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052503.webp)
+
+一个与代码库对话的 Web 应用，可以扫描本地文件夹，对其建立本地索引，从而用自然语言库对话。（[@oldjs](https://github.com/ruanyf/weekly/issues/6929) 投稿）
+
+3、[Ainee](https://github.com/luyu0279/Ainee)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052801.webp)
+
+AI 开源笔记工具，将音频、文字、文件以及 YouTube 视频等转换为笔记。（[@luyu0279](https://github.com/ruanyf/weekly/issues/6940) 投稿）
+
+4、[OpenDerisk](https://github.com/derisk-ai/OpenDerisk)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052902.webp)
+
+开源的 AI 运维助手，对线上系统提供 AI管家，与真人协同处理运维问题。（[@csunny](https://github.com/ruanyf/weekly/issues/6953) 投稿）
+
+---
+
 ## [第 349 期：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md)
 
 1、[aTrain](https://github.com/JuergenFleiss/aTrain)
