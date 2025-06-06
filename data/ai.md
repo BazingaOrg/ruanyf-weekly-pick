@@ -1,3 +1,43 @@
+## [第 351 期：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md)
+
+1、[Google AI Edge Gallery](https://github.com/google-ai-edge/gallery)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060109.webp)
+
+谷歌新发布的安卓 App，允许用户在手机运行 Hugging Face 上面的开源 AI 模型，即它可以让手机运行本地 AI 模型。
+
+2、[Bing Video Creator](https://www.bing.com/images/create/make-a-video/645d21a9470d4f4388cf46635f40809d)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060311.webp)
+
+微软旗下的 Bing 搜索引擎，加入了视频生成功能，可以使用自然语言生成免费视频，使用的是 OpenAI 的文生视频模型 Sora。
+
+该功能目前只在 Bing 的手机 App 上开放。
+
+3、[AIDocGenius](https://github.com/jiangmuran/AIDocGenius)（智能文档助手）
+
+一个 Python 脚本，集成了 AI 文档摘要、翻译、分析和格式转换。（[@jiangmuran](https://github.com/ruanyf/weekly/issues/6958) 投稿）
+
+4、[Low Fade AI](https://lowfade.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053009.webp)
+
+免费、免注册的换发型、发色的 AI 工具。（[@twjiem](https://github.com/ruanyf/weekly/issues/6961) 投稿）
+
+5、[Read Bridge](https://github.com/WindChimeEcho/read-bridge)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060302.webp)
+
+AI 驱动的 epub 阅读助手，通过 AI 分析书里的句子，[在线试用](https://readbridge.cc)。（[@WindChimeEcho](https://github.com/ruanyf/weekly/issues/6977) 投稿）
+
+6、[TEN VAD](https://github.com/TEN-framework/ten-vad)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060304.webp)
+
+一个轻量级 AI 模型，检测音频帧中是否存在人声。（[@bluemotional](https://github.com/ruanyf/weekly/issues/6979) 投稿）
+
+---
+
 ## [第 350 期：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md)
 
 1、[Smart Mermaid](https://github.com/liujuntao123/smart-mermaid)
