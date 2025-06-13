@@ -1,3 +1,35 @@
+## [第 352 期：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md)
+
+1、[Page Magic](https://github.com/khaledh/pagemagic)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060402.webp)
+
+一个 Chrome 的 AI 插件，输入你对当前网页的修改描述，它自动将改好的网页呈现在浏览器里，需要 Anthropic API。
+
+2、[壁响](https://wallecho.com/)（WallEcho）
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060702.webp)
+
+根据输入的文本，免费生成手机或电脑桌布。（[@twjiem](https://github.com/ruanyf/weekly/issues/6999) 投稿）
+
+3、[AI 洞察日报](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060703.webp)
+
+通过 Cloudflare Workers 抓取指定数据源，生成每日精选的 AI 日报，[效果预览](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/today/book/)。（[@justlovemaki](https://github.com/ruanyf/weekly/issues/7009) 投稿）
+
+4、[zenfeed](https://github.com/glidea/zenfeed)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060704.webp)
+
+智能信息助手，对于关注的新闻或话题，使用 AI 自动收集、筛选出要看的文章，并总结内容。（[@glidea](https://github.com/ruanyf/weekly/issues/7012) 投稿）
+
+5、[文颜 MCP Server](https://github.com/caol64/wenyan-mcp)
+
+AI 模型接入这个 MCP，就可以将排版好的内容，自动发布到微信公众号，参见[介绍文章](https://babyno.top/posts/2025/06/let-ai-help-you-manage-your-gzh-layout-and-publishing/)。（[@caol64](https://github.com/ruanyf/weekly/issues/7048) 投稿）
+
+---
+
 ## [第 351 期：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md)
 
 1、[Google AI Edge Gallery](https://github.com/google-ai-edge/gallery)
