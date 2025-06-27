@@ -1,3 +1,27 @@
+## [第 354 期：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md)
+
+1、[Gemini CLI](https://github.com/google-gemini/gemini-cli)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062611.webp)
+
+谷歌推出的基于终端的 AI 客户端，可以完成各种 AI 操作，包括调用谷歌的视频模型 Veo 和图像模型 Imagen。
+
+此前，其他 AI 公司已经发布了类似的命令行产品，比如 [Claude Code](https://www.anthropic.com/claude-code) 和 [OpenAI Codex (CLI)](https://github.com/openai/codex)。
+
+2、[Twocast](https://github.com/panyanyany/Twocast)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062409.webp)
+
+真人 AI 播客生成器，一键生成 3~5 分钟播客，支持多语言、多音色，免费开源。（[@panyanyany](https://github.com/ruanyf/weekly/issues/7129) 投稿）
+
+3、[Duck.ai](https://duck.ai)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062605.webp)
+
+DuckDuckGo 推出的免费 AI 聊天服务，强调保护用户隐私。
+
+---
+
 ## [第 352 期：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md)
 
 1、[Page Magic](https://github.com/khaledh/pagemagic)
