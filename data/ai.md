@@ -1,3 +1,19 @@
+## [第 355 期：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md)
+
+1、[GitHub Copilot](https://github.com/microsoft/vscode-copilot-chat)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070303.webp)
+
+微软开源了 VS Code 的 GitHub Copilot Chat 插件，用来跟 AI 对话。据说，GitHub Copilot 本体（主要完成代码补全和生成）很快也会开源。
+
+2、[CAPTCHA-automatic-recognition](https://github.com/ezyshu/UserScript/tree/main/CAPTCHA-automatic-recognition)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070107.webp)
+
+一个油猴脚本，通过 AI 自动识别填充网页验证码。（[@ezyshu](https://github.com/ruanyf/weekly/issues/7187) 投稿）
+
+---
+
 ## [第 354 期：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md)
 
 1、[Gemini CLI](https://github.com/google-gemini/gemini-cli)
