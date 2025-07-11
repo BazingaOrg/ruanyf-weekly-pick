@@ -1,3 +1,41 @@
+## [第 356 期：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md)
+
+1、[OpenCode](https://github.com/sst/opencode)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070701.webp)
+
+一个 AI 终端客户端，可以在命令行向大模型发出指令，操作文件等，类似于 Claude Code，但是开源且不限定大模型种类。
+
+2、[Simple Chromium AI](https://github.com/kstonekuan/simple-chromium-ai)
+
+Chrome 浏览器从138版后，内置了 Gemini Nano 模型，并提供 [AI Prompt API](https://developer.chrome.com/docs/ai/prompt-api?hl=zh-cn) 以便调用。
+
+这个库就是浏览器 AI Prompt API 的封装，用起来更方便。
+
+3、[TouchFS](https://github.com/kristerhedfors/touchfs)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070902.webp)
+
+一个很有创意的 AI 命令行工具，用它加载目录后，直接输入文件名，就能自动生成想要的文件。比如，输入`touch README.md`，就会自动生成自述文件。
+
+4、[yutu](https://github.com/eat-pray-ai/yutu)
+
+YouTube 的非官方 MCP 服务器，AI 智能体接入后，就能用自然语言操作 YouTube。（[@OpenWaygate](https://github.com/ruanyf/weekly/issues/7214) 投稿）
+
+5、[Pointer](https://github.com/experdot/pointer)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071002.webp)
+
+一个 AI 聊天的桌面客户端，可以使用文件夹管理聊天记录，支持全文搜索和交叉表分析。（[@experdot](https://github.com/ruanyf/weekly/issues/7241) 投稿）
+
+6、[TTS Omni](https://www.ttsomni.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070601.webp)
+
+免费的文本转语音网站，基于  [Qwen-TTS](https://qwenlm.github.io/zh/blog/qwen-tts/)。（[@CurioChen77](https://github.com/ruanyf/weekly/issues/7209) 投稿）
+
+---
+
 ## [第 355 期：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md)
 
 1、[GitHub Copilot](https://github.com/microsoft/vscode-copilot-chat)
