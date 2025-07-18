@@ -1,3 +1,19 @@
+## [第 357 期：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md)
+
+1、[EPUB Translator](https://github.com/oomol-lab/epub-translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071608.webp)
+
+一个使用 AI 模型，对 epub 电子书进行双语翻译的 Python 库。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/7273) 投稿）
+
+2、[PoPo](https://github.com/AmyangXYZ/PoPo)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071504.webp)
+
+一个很有意思的开源应用，使用自然语言发出指令（“弯腰”、“大笑”等等），控制网页上的 3D 模型人，[在线试用](https://popo.love/)。（[@AmyangXYZ](https://github.com/ruanyf/weekly/issues/7268) 投稿）
+
+---
+
 ## [第 356 期：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md)
 
 1、[OpenCode](https://github.com/sst/opencode)
